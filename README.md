@@ -30,3 +30,6 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 1. Astra free
 2. Sage
 3. WP Emerge
+
+## Helper library, code snippet
+1. [AJAX Action Wrapper](https://github.com/YahnisElsts/ajax-wrapper)
