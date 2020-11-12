@@ -7,7 +7,12 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
     1.2 Elementor Column Order - Free
 2. ACF Pro - Custom field - Premium
 3. QtranslateXT - Multilanguage - Open Source
-4. WP Custom Admin Interface - Modify admin - Free.
+### 4. Custom admin interface
+4.1 WP Custom Admin Interface - Modify admin - Free.
+
+4.2 Disable Admin Notices individually - Free
+
+
 ### 5. Marketing, SEO
 #### 5.1 Yoast Seo - SEO - Free
     Sitemap tool is stupid. Use Google XML Sitemap Generator instead.
@@ -26,13 +31,17 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
  7.3 P3 (Plugin Performance Profiler) - Show how much each plugin affect performance -Free 
  
  7.3 Amuga Ajax Log - Show what is really hitting your admin-ajax.php file - Free
+ 
+ 7.4 Cron Logger - Have you ever wondered what you WordPress is doing in wp-cron.php? - Free
+ 
+ 7.5 DebugPress - Debugging and profiling currently loaded WordPress powered website page - Free
 
 8. Auto Upload Images - Search for image urls which exists in post and automatically upload and import external images - Free
 
 ### 9. Plugin for security
 9.1 Banhammer - Monitor and ban suspicious visitor - Free
 9.2 Blackhole for Bad Bots - Create honey pot to trap bots which is not follow robots.txt - Free
-
+9.3 Hide login page, Hide wp admin – stop attack on login page - Free
 10. Better Font Awesome - Insert fontawesomw icons without coding - Free
 
 
@@ -44,3 +53,8 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 
 ## Helper library, code snippet
 1. [AJAX Action Wrapper](https://github.com/YahnisElsts/ajax-wrapper)
+2. [Extended CPTs](https://github.com/johnbillion/extended-cpts)
+
+## Other awesome
+1. [Awesome WP Developer Tools](https://github.com/lukecav/awesome-wp-developer-tools)
+2. [Awesome Elementor](https://github.com/lukecav/awesome-elementor)
