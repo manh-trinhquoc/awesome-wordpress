@@ -13,11 +13,18 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
     Sitemap tool is stupid. Use Google XML Sitemap Generator instead.
 #### 5.2 Google XML Sitemap Generator - Free
     Robots.txt only add to default wordpress. To complete change robots.txt, use Yoast Seo.
-6. Classic Editor - Switch gutenber to old editor - Free <br />
+6. Classic Editor - Switch gutenber to old editor - Free
+
 ### 7. Plugins for debug
- 7.1 Query Monitor <br />
- 7.2 Show Hooks <br />
- 7.3 P3 (Plugin Performance Profiler) - Show how much each plugin affect performance -Free
+ 7.1 Query Monitor
+ 
+ 7.2 Show Hooks 
+ 
+ 7.3 P3 (Plugin Performance Profiler) - Show how much each plugin affect performance -Free 
+ 
+ 7.3 Amuga Ajax Log - Show what is really hitting your admin-ajax.php file - Free
+
+8. Auto Upload Images - Search for image urls which exists in post and automatically upload and import external images - Free
 
 ## Themes
 1. Astra free
