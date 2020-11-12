@@ -29,6 +29,14 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 
 8. Auto Upload Images - Search for image urls which exists in post and automatically upload and import external images - Free
 
+### 9. Plugin for security
+9.1 Banhammer - Monitor and ban suspicious visitor - Free
+9.2 Blackhole for Bad Bots - Create honey pot to trap bots which is not follow robots.txt - Free
+
+10. Better Font Awesome - Insert fontawesomw icons without coding - Free
+
+
+
 ## Themes
 1. Astra free
 2. Sage
