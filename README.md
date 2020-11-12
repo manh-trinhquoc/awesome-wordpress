@@ -21,3 +21,5 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 
 ## Themes
 1. Astra free
+2. Sage
+3. WP Emerge
