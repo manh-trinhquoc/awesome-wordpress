@@ -8,11 +8,14 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 2. ACF Pro - Custom field - Premium
 3. QtranslateXT - Multilanguage - Open Source
 4. WP Custom Admin Interface - Modify admin - Free.
-### 5. SEO
+### 5. Marketing, SEO
 #### 5.1 Yoast Seo - SEO - Free
     Sitemap tool is stupid. Use Google XML Sitemap Generator instead.
 #### 5.2 Google XML Sitemap Generator - Free
     Robots.txt only add to default wordpress. To complete change robots.txt, use Yoast Seo.
+
+5.3 [AutomatePlug - Mautic for WordPress](https://github.com/brainstormforce/automate-mautic#:~:text=Description,and%20actions%20for%20each%20rule.)
+
 6. Classic Editor - Switch gutenber to old editor - Free
 
 ### 7. Plugins for debug
