@@ -35,6 +35,7 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
  7.4 Cron Logger - Have you ever wondered what you WordPress is doing in wp-cron.php? - Free
  
  7.5 DebugPress - Debugging and profiling currently loaded WordPress powered website page - Free
+ 7.6 [Laps — light WordPress profiler](https://github.com/Rarst/laps) - shows performance information - Free
 
 8. Auto Upload Images - Search for image urls which exists in post and automatically upload and import external images - Free
 
@@ -42,8 +43,10 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 9.1 Banhammer - Monitor and ban suspicious visitor - Free
 9.2 Blackhole for Bad Bots - Create honey pot to trap bots which is not follow robots.txt - Free
 9.3 Hide login page, Hide wp admin – stop attack on login page - Free
-10. Better Font Awesome - Insert fontawesomw icons without coding - Free
+9.4 Expire Users - Free
 
+10. Better Font Awesome - Insert fontawesomw icons without coding - Free
+11. FakerPress - Free
 
 
 ## Themes
