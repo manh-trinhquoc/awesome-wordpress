@@ -6,7 +6,9 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
     1.1 Elementor Pro - Page builder - Premium
     1.2 Elementor Column Order - Free
 2. ACF Pro - Custom field - Premium
-3. QtranslateXT - Multilanguage - Open Source
+### 3. Multilanguage
+3.1 QtranslateXT - Multilanguage - Open Source
+3.2 TranslatePress – Translate Multilingual sites
 ### 4. Custom admin interface
 4.1 WP Custom Admin Interface - Modify admin - Free.
 
@@ -39,16 +41,23 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
  7.6 [Laps — light WordPress profiler](https://github.com/Rarst/laps) - shows performance information - Free
  7.7 Site Health Manager
  7.8 Transients Manager
+ 7.9 WP Crontrol - view and control what’s happening in the WP-Cron system
 
 8. Auto Upload Images - Search for image urls which exists in post and automatically upload and import external images - Free
 
 ### 9. Plugin for security
 9.1 Banhammer - Monitor and ban suspicious visitor - Free
+
 9.2 Blackhole for Bad Bots - Create honey pot to trap bots which is not follow robots.txt - Free
+
 9.3 Hide login page, Hide wp admin – stop attack on login page - Free
+
 9.4 Expire Users - Free
+
 9.5 Website File Changes Monitor
+
 9.6 Wordfence Security – Firewall & Malware Scan
+9.7 WP Hide & Security Enhancer - completely hide your WordPress core files, login page, theme and plugins paths
 
 10. Better Font Awesome - Insert fontawesomw icons without coding - Free
 11. FakerPress - Free
@@ -60,6 +69,7 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 10.1 ShortPixel Image Optimizer
 
 11. Widget Options – Add Context To WordPress Widgets
+12. WP Codeception - allows you to write and run Codeception tests for WordPress via WP CLI.
 
 ## Themes
 1. Astra free
@@ -70,8 +80,13 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 1. [AJAX Action Wrapper](https://github.com/YahnisElsts/ajax-wrapper)
 2. [Extended CPTs](https://github.com/johnbillion/extended-cpts)
 3. [WP Background Processing ](https://github.com/deliciousbrains/wp-background-processing)
-4. [wp-browser](https://github.com/lucatume/wp-browser) wp-browser provides easy acceptance, functional, integration and unit testing for WordPress plugins, themes and whole sites
+4. [wp-browser](https://github.com/lucatume/wp-browser) - wp-browser provides easy acceptance, functional, integration and unit testing for WordPress plugins, themes and whole sites
+5. [WP_Model - Pseudo ORM for WordPress](https://github.com/anthonybudd/WP_Model) A simple class for creating active record models of WordPress Posts
+6. 
+
 
 ## Other awesome
 1. [Awesome WP Developer Tools](https://github.com/lukecav/awesome-wp-developer-tools)
 2. [Awesome Elementor](https://github.com/lukecav/awesome-elementor)
+3. [WordPress Gear](http://wpgear.org/)
+4. [Awesome WordPress](https://github.com/miziomon/awesome-wordpress)
