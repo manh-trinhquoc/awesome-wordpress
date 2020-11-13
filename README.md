@@ -47,7 +47,9 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 
 10. Better Font Awesome - Insert fontawesomw icons without coding - Free
 11. FakerPress - Free
-
+12. Pods – Custom Content Types and Fields
+13. Post Type Switcher
+14. [One-Time Callbacks](https://github.com/stevegrunwell/one-time-callbacks)
 
 ## Themes
 1. Astra free
