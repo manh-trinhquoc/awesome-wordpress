@@ -20,6 +20,7 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
     Robots.txt only add to default wordpress. To complete change robots.txt, use Yoast Seo.
 
 5.3 [AutomatePlug - Mautic for WordPress](https://github.com/brainstormforce/automate-mautic#:~:text=Description,and%20actions%20for%20each%20rule.)
+5.4 The SEO Framework
 
 6. Classic Editor - Switch gutenber to old editor - Free
 
@@ -36,6 +37,8 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
  
  7.5 DebugPress - Debugging and profiling currently loaded WordPress powered website page - Free
  7.6 [Laps — light WordPress profiler](https://github.com/Rarst/laps) - shows performance information - Free
+ 7.7 Site Health Manager
+ 7.8 Transients Manager
 
 8. Auto Upload Images - Search for image urls which exists in post and automatically upload and import external images - Free
 
@@ -50,6 +53,9 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 12. Pods – Custom Content Types and Fields
 13. Post Type Switcher
 14. [One-Time Callbacks](https://github.com/stevegrunwell/one-time-callbacks)
+
+### 10. Image optimize
+10.1 ShortPixel Image Optimizer
 
 ## Themes
 1. Astra free
