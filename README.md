@@ -47,6 +47,8 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 9.2 Blackhole for Bad Bots - Create honey pot to trap bots which is not follow robots.txt - Free
 9.3 Hide login page, Hide wp admin – stop attack on login page - Free
 9.4 Expire Users - Free
+9.5 Website File Changes Monitor
+9.6 Wordfence Security – Firewall & Malware Scan
 
 10. Better Font Awesome - Insert fontawesomw icons without coding - Free
 11. FakerPress - Free
@@ -57,6 +59,8 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 ### 10. Image optimize
 10.1 ShortPixel Image Optimizer
 
+11. Widget Options – Add Context To WordPress Widgets
+
 ## Themes
 1. Astra free
 2. Sage
@@ -65,6 +69,8 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 ## Helper library, code snippet
 1. [AJAX Action Wrapper](https://github.com/YahnisElsts/ajax-wrapper)
 2. [Extended CPTs](https://github.com/johnbillion/extended-cpts)
+3. [WP Background Processing ](https://github.com/deliciousbrains/wp-background-processing)
+4. [wp-browser](https://github.com/lucatume/wp-browser) wp-browser provides easy acceptance, functional, integration and unit testing for WordPress plugins, themes and whole sites
 
 ## Other awesome
 1. [Awesome WP Developer Tools](https://github.com/lukecav/awesome-wp-developer-tools)
