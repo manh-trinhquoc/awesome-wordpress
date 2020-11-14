@@ -139,13 +139,10 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 ### 2. Famous Personal Blog
 ### 3. Website about coding
 3.1 https://10up.github.io/Engineering-Best-Practices/
-
-
-
-
 ## Other awesome
 1. [Awesome WP Developer Tools](https://github.com/lukecav/awesome-wp-developer-tools)
 2. [Awesome Elementor](https://github.com/lukecav/awesome-elementor)
 3. [WordPress Gear](http://wpgear.org/)
 4. [Awesome WordPress](https://github.com/miziomon/awesome-wordpress)
 5. [Awesome WordPress Developer Tips](https://github.com/Mte90/awesome-wordpress-developer-tips)
+6. [Awesome WordPress Plugins](https://github.com/designwall/Awesome-WordPress-Plugins)
