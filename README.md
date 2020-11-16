@@ -166,6 +166,7 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 4. Gantry Framework
 5. WP React Starter: WordPress React Boilerplate - Plugin boiler plate
 6. Kirki Customizer Framework
+7. https://lumberjack.rareloop.com/ - Supercharge your WordPress Development
 
 ## Helper library, code snippet
 1. [AJAX Action Wrapper](https://github.com/YahnisElsts/ajax-wrapper)
