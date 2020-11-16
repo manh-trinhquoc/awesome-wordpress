@@ -114,6 +114,11 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 ### 29. Contact form
 29.1 Caldera Forms – More Than Contact Forms
 29.2 Ninja Forms Contact Form – The Drag and Drop Form Builder for WordPress
+### 30. Photo gallery
+30.1 Gmedia Gallery - Powerful media library plugin with comments support for creating beautiful galleries and managing files
+30.2 FooGallery - Foo Gallery allows for better image and video gallery management within WordPress. Built to be simple for users and highly flexible for developers.
+30.3 Photo Gallery - Photo Gallery is an advanced plugin with a list of tools and options for adding and editing images for different views. It is fully responsive.
+30.4 Photo Gallery by Supsystic - Photo Gallery with visual editor to build amazing photo galleries. Responsive mobile ready gallery include grid, carousel, polaroid and more templates
 
 ## Starter theme, plugin boiler plate.
 1. Astra free
