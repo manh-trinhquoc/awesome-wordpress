@@ -14,6 +14,7 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 
 4.2 Disable Admin Notices individually - Free
 4.3 Frontend Dashboard
+4.4 Admin Menu Editor - Lets you edit the WordPress admin menu. You can re-order, hide or rename menus, add custom menus and more.
 
 
 
@@ -59,11 +60,17 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 9.5 Website File Changes Monitor
 
 9.6 Wordfence Security – Firewall & Malware Scan
+
 9.7 WP Hide & Security Enhancer - completely hide your WordPress core files, login page, theme and plugins paths
+
 9.8 WPBruiser {no- Captcha anti-Spam}
+
 9.9 Antispam Bee
+
 9.10 iThemes Security (formerly Better WP Security)
+
 9.11 Sucuri Security – Auditing, Malware Scanner and Security Hardening
+
 9.12 WPScan - WordPress Security Scanner
 
 
@@ -102,8 +109,10 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 24.2 WooCommerce
 ### 25. Multilsite
 25.1 MainWP - Self-hosted open source manager for maintaining your WordPress sites from one location.
-### 26. User management
+### 26. User management, membership
 26.1 Stream - alert you when something goes wrong with your WordPress site.
+26.2 S2Member - s2Member is powered almost entirely by WordPress shortcodes, making complex integrations quick & easy. Sell recurring (or non-recurring) subscriptions with lots of flexibility.
+
 ### 27. Analytic
 27.1 Google Analytics Dashboard Plugin for WordPress by Analytify
 27.2 Google Analytics Dashboard Plugin for WordPress by MonsterInsights
@@ -124,10 +133,19 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 30.4 Photo Gallery by Supsystic - Photo Gallery with visual editor to build amazing photo galleries. Responsive mobile ready gallery include grid, carousel, polaroid and more templates
 ### 31. Slider
 31.1 Slider by SupSystic - Responsive Slider by Supsystic - the ultimate slideshow solution. Build image, video and content sliders with professional slider / slideshow template.
+
 31.2 Ultimate Responsive Image Slider - Add Fully Responsive Image Slider To Your WordPress Blog.
+
 31.3 Slider WD - This WordPress slider plugin is a great tool for creating responsive sliders. It uses various transition effects.
+
 31.4 Master Slider - The most advanced responsive and HTML5 WordPress slider plugin with touch swipe navigation that works smoothly on desktop and devices.
+
 31.5 Meta silder - Easy to use WordPress Slider plugin. Create responsive slideshows with Nivo Slider, Flex Slider, Coin Slider and Responsive Slides.
+### 32. Menu
+32.1 Nav Menu Roles - This plugin lets you hide custom menu items based on user roles. So if you have a link in the menu that you only want to show to logged in users, certain types of users, or even only to logged out users, this plugin is for you.
+32.2 Responsive Menu - This is a Highly Customisable Responsive Menu Plugin for WordPress
+32.3 Max Mega Menu - Easy to use drag & drop WordPress Mega Menu plugin. Create Mega Menus using Widgets. Responsive, retina & touch ready.
+
 
 ## Starter theme, plugin boiler plate.
 1. Astra free
