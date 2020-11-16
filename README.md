@@ -116,9 +116,18 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 29.2 Ninja Forms Contact Form – The Drag and Drop Form Builder for WordPress
 ### 30. Photo gallery
 30.1 Gmedia Gallery - Powerful media library plugin with comments support for creating beautiful galleries and managing files
+
 30.2 FooGallery - Foo Gallery allows for better image and video gallery management within WordPress. Built to be simple for users and highly flexible for developers.
+
 30.3 Photo Gallery - Photo Gallery is an advanced plugin with a list of tools and options for adding and editing images for different views. It is fully responsive.
+
 30.4 Photo Gallery by Supsystic - Photo Gallery with visual editor to build amazing photo galleries. Responsive mobile ready gallery include grid, carousel, polaroid and more templates
+### 31. Slider
+31.1 Slider by SupSystic - Responsive Slider by Supsystic - the ultimate slideshow solution. Build image, video and content sliders with professional slider / slideshow template.
+31.2 Ultimate Responsive Image Slider - Add Fully Responsive Image Slider To Your WordPress Blog.
+31.3 Slider WD - This WordPress slider plugin is a great tool for creating responsive sliders. It uses various transition effects.
+31.4 Master Slider - The most advanced responsive and HTML5 WordPress slider plugin with touch swipe navigation that works smoothly on desktop and devices.
+31.5 Meta silder - Easy to use WordPress Slider plugin. Create responsive slideshows with Nivo Slider, Flex Slider, Coin Slider and Responsive Slides.
 
 ## Starter theme, plugin boiler plate.
 1. Astra free
