@@ -9,6 +9,13 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 ### 3. Multilanguage
 3.1 QtranslateXT - Multilanguage - Open Source
 3.2 TranslatePress – Translate Multilingual sites
+3.3 Polylang - Making WordPress multilingual
+3.4 Google Language translator - Welcome to Google Language Translator! This plugin allows you to insert the Google Language Translator tool anywhere on your website using shortcode.
+3.5 Gtranslate - Google translate - GTranslate - Google Translate for WordPress will make your website multilingual and available to more than 99% of internet users.
+3.6 Transposh wordpress translation - Transposh adds best of breed translation support to wordpress, 92 languages are automatically translated and can be manually corrected with ease.
+3.7 Lingotek translation - Convenient cloud-based localization and translation for WordPress.
+3.8 WPGlobus - Multilingual / Globalization: URL-based multilanguage; easy translation interface, compatible with Yoast SEO, All in One SEO Pack and ACF!
+
 ### 4. Custom admin interface
 4.1 WP Custom Admin Interface - Modify admin - Free.
 
@@ -176,6 +183,8 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 ### 2. Famous Personal Blog
 ### 3. Website about coding
 3.1 https://10up.github.io/Engineering-Best-Practices/
+### 4. Cracked plugins, themes
+4.1 https://www.shineads.in/category/wp-pluggins/
 ## Other awesome
 1. [Awesome WP Developer Tools](https://github.com/lukecav/awesome-wp-developer-tools)
 2. [Awesome Elementor](https://github.com/lukecav/awesome-elementor)
