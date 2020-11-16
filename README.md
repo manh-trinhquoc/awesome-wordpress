@@ -27,6 +27,11 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 5.3 [AutomatePlug - Mautic for WordPress](https://github.com/brainstormforce/automate-mautic#:~:text=Description,and%20actions%20for%20each%20rule.)
 5.4 The SEO Framework
 5.5 Lead Form Data Collection to CRM
+5.6 All In One SEO Pack - The most downloaded plugin for WordPress (almost 30 million downloads). Use All in One SEO Pack to automatically optimize your site for Search Engines.
+5.7 SEO by SQUIRRLY - SEO Plugin By Squirrly is for the NON-SEO experts. Get Excellent Seo with Better Content, Ranking and Analytics. For Both Humans and Search Bots.
+5.8 Redirection - Redirection is a WordPress plugin to manage 301 redirections and keep track of 404 errors without requiring knowledge of Apache .htaccess files.
+5.9 All In One Schema.org Rich Snippets - Boost CTR. Improve SEO & Rankings. Supports most of the content type. Works perfectly with Google, Bing, Yahoo & Facebook.
+
 6. Classic Editor - Switch gutenber to old editor - Free
 
 ### 7. Plugins for debug
