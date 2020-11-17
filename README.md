@@ -8,12 +8,19 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 2. ACF Pro - Custom field - Premium
 ### 3. Multilanguage
 3.1 QtranslateXT - Multilanguage - Open Source
+
 3.2 TranslatePress – Translate Multilingual sites
+
 3.3 Polylang - Making WordPress multilingual
+
 3.4 Google Language translator - Welcome to Google Language Translator! This plugin allows you to insert the Google Language Translator tool anywhere on your website using shortcode.
+
 3.5 Gtranslate - Google translate - GTranslate - Google Translate for WordPress will make your website multilingual and available to more than 99% of internet users.
+
 3.6 Transposh wordpress translation - Transposh adds best of breed translation support to wordpress, 92 languages are automatically translated and can be manually corrected with ease.
+
 3.7 Lingotek translation - Convenient cloud-based localization and translation for WordPress.
+
 3.8 WPGlobus - Multilingual / Globalization: URL-based multilanguage; easy translation interface, compatible with Yoast SEO, All in One SEO Pack and ACF!
 
 ### 4. Custom admin interface
@@ -32,11 +39,17 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
     Robots.txt only add to default wordpress. To complete change robots.txt, use Yoast Seo.
 
 5.3 [AutomatePlug - Mautic for WordPress](https://github.com/brainstormforce/automate-mautic#:~:text=Description,and%20actions%20for%20each%20rule.)
+
 5.4 The SEO Framework
+
 5.5 Lead Form Data Collection to CRM
+
 5.6 All In One SEO Pack - The most downloaded plugin for WordPress (almost 30 million downloads). Use All in One SEO Pack to automatically optimize your site for Search Engines.
+
 5.7 SEO by SQUIRRLY - SEO Plugin By Squirrly is for the NON-SEO experts. Get Excellent Seo with Better Content, Ranking and Analytics. For Both Humans and Search Bots.
+
 5.8 Redirection - Redirection is a WordPress plugin to manage 301 redirections and keep track of 404 errors without requiring knowledge of Apache .htaccess files.
+
 5.9 All In One Schema.org Rich Snippets - Boost CTR. Improve SEO & Rankings. Supports most of the content type. Works perfectly with Google, Bing, Yahoo & Facebook.
 
 6. Classic Editor - Switch gutenber to old editor - Free
@@ -53,9 +66,13 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
  7.4 Cron Logger - Have you ever wondered what you WordPress is doing in wp-cron.php? - Free
  
  7.5 DebugPress - Debugging and profiling currently loaded WordPress powered website page - Free
+ 
  7.6 [Laps — light WordPress profiler](https://github.com/Rarst/laps) - shows performance information - Free
+ 
  7.7 Site Health Manager
+ 
  7.8 Transients Manager
+ 
  7.9 WP Crontrol - view and control what’s happening in the WP-Cron system
 
 8. Auto Upload Images - Search for image urls which exists in post and automatically upload and import external images - Free
@@ -109,10 +126,15 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 19. Enable Media Replace - replace an image or file in your Media Library by uploading a new file in its place
 ### 20. REGISTER TO MEDIA LIBRARY
 20.1 Media from FTP - REGISTER TO MEDIA LIBRARY FROM FILES THAT HAVE BEEN UPLOADED BY FTP
+
 20.2 Bulk Media Register
+
 20.3 Moving Media Library
+
 20.4 Media from ZIP
+
 21. Fly Dynamic Image Resizer - dynamically create image when the image is called for the first time, rather than when it is uploaded.
+
 22. Image Optimizer, Resizer and CDN - Paid solution, suitable for ecommerce site with lots of features
 ### 23. Performance
 23.1 WP-Optimize – Clean, Compress, Cache
@@ -125,6 +147,7 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 25.1 MainWP - Self-hosted open source manager for maintaining your WordPress sites from one location.
 ### 26. User management, membership
 26.1 Stream - alert you when something goes wrong with your WordPress site.
+
 26.2 S2Member - s2Member is powered almost entirely by WordPress shortcodes, making complex integrations quick & easy. Sell recurring (or non-recurring) subscriptions with lots of flexibility.
 
 ### 27. Analytic
@@ -161,34 +184,53 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 31.5 Meta silder - Easy to use WordPress Slider plugin. Create responsive slideshows with Nivo Slider, Flex Slider, Coin Slider and Responsive Slides.
 ### 32. Menu
 32.1 Nav Menu Roles - This plugin lets you hide custom menu items based on user roles. So if you have a link in the menu that you only want to show to logged in users, certain types of users, or even only to logged out users, this plugin is for you.
+
 32.2 Responsive Menu - This is a Highly Customisable Responsive Menu Plugin for WordPress
+
 32.3 Max Mega Menu - Easy to use drag & drop WordPress Mega Menu plugin. Create Mega Menus using Widgets. Responsive, retina & touch ready.
 ### 33. Ads
 33.1 AdRotate - The popular choice for monetizing your website with adverts while keeping things simple. Start making money today!
+
 33.2 WordPress Ad Widget - Easily upload ad images and ad code to your sidebar. For those that don't need or want a complicated ad management system.
+
 33.3 Ads Ad inserter - Insert any HTML/Javascript/PHP code into WordPress. Perfect for AdSense or contextual Amazon ads. 16 code blocks, many display options.
+
 33.4 Adplugg WordPress plugin - The AdPlugg WordPress Ad Plugin is a simple plugin that allows you to display ads on your WordPress site.
+
 33.5 Ads by datarfeedr.com - Add and display ads randomly on your blog. Sort ads randomly, limit the number of ads that appear, display ads in posts, widgets or template files.
+
 33.6 Corner Ad - Corner Ad is a minimally invasive advertising display that uses any of your webpage's top corners - a position typically under-utilized by develop.
+
 33.7 Meks easy Ads Widget - Display unlimited number of ads inside your WordPress widget.
+
 33.8 Advanded Ads - Manage and optimize your ads as easy as creating posts. Including support for AdSense, ad injection, ad planning, ad widget, and ad rotation.
 ### 34. Social Media
 34.1 Social Warfare - Social Warfare is a fully responsive social sharing plugin for WordPress. This plugin offers beautiful and highly customizable social sharing buttons for WordPress site. - Search github để lấy bản free
+
 34.2 Cresta Social Share Counter - Share your posts and pages quickly and easily with Cresta Social Share Count showing the share count.
+
 34.3 Shareaholic | share buttons & related posts - World's leading all-in-one Content Amplification Platform that helps grow your site traffic, engagement, conversions & monetization for FREE.
+
 34.4 Social Media Feather - Lightweight, nice, modern looking and effective social media sharing and following buttons and icons - all your social media needs in 1 easy package!
+
 34.5 Share Button Mashshare - Social Media Share Buttons for Twitter, Facebook and other social networks. Highly customizable Social Media ecosystem
 ### 35. Forums
 35.1 bbPress - When it comes to integrating a forum into WordPress, bbPress is handsdown the best plugin for the job. It is built the WordPress way and uses the existing WordPress core to power your forum. We have a tutorial on how to set up bbPress in WordPress.
+
 35.2 BuddyPress - BuddyPress allows you to build your own social network with in WordPress. Just like bbPress, BuddyPress is also an official WordPress plugin. It follows the same coding practices and standards as WordPress.
+
 35.3 CM Answers - CM Answers allows you to build a Q & A community on your WordPress site. The basic free plugin comes with enough features to quickly set up a Stack Exchange like forum on your website.
 ### 36. Newsletters
 36.1 Newsletter - Add a real newsletter system to your blog. For free. With unlimited newsletters and subscribers.
+
 36.2 ALO EasyMail Newsletter - To send newsletters. Features: collect subscribers on registration or with an ajax widget, mailing lists, cron batch sending, multilanguage, bounces.
 ### 37. List posts with categories, tags, taxonomy
 37.1 List Category Posts - List Category Posts allows you to list posts by category in a post/page using the [catlist] shortcode.
+
 37.2 Ultimate Category Excluder - Ultimate Category Excluder allows you to quickly and easily exclude categories from your front page, archives, feeds, and search results.
+
 37.3 Remove Category URL - This plugin removes '/category' from your category permalinks. (e.g. /category/my-category/ to /my-category/)
+
 37.4 Category Color - Easily set a custom color per Post Category and use the colors in your WordPress templates to spice up your theme.
 
 ## Starter theme, plugin boiler plate.
