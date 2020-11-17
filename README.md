@@ -135,6 +135,10 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 ### 29. Contact form
 29.1 Caldera Forms – More Than Contact Forms
 29.2 Ninja Forms Contact Form – The Drag and Drop Form Builder for WordPress
+29.3 Contact Form 7 - Just another contact form plugin. Simple but flexible.
+#### 29.4 Gravity Forms - Gravity Forms is a paid contact form plugin that has all the advanced functionality one can ask for.
+    https://github.com/wp-premium/gravityforms
+    Khi hỏi license cứ next qua vẫn dùng được
 ### 30. Photo gallery
 30.1 Gmedia Gallery - Powerful media library plugin with comments support for creating beautiful galleries and managing files
 
@@ -157,6 +161,15 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 32.1 Nav Menu Roles - This plugin lets you hide custom menu items based on user roles. So if you have a link in the menu that you only want to show to logged in users, certain types of users, or even only to logged out users, this plugin is for you.
 32.2 Responsive Menu - This is a Highly Customisable Responsive Menu Plugin for WordPress
 32.3 Max Mega Menu - Easy to use drag & drop WordPress Mega Menu plugin. Create Mega Menus using Widgets. Responsive, retina & touch ready.
+### 33. Ads
+33.1 AdRotate - The popular choice for monetizing your website with adverts while keeping things simple. Start making money today!
+33.2 WordPress Ad Widget - Easily upload ad images and ad code to your sidebar. For those that don't need or want a complicated ad management system.
+33.3 Ads Ad inserter - Insert any HTML/Javascript/PHP code into WordPress. Perfect for AdSense or contextual Amazon ads. 16 code blocks, many display options.
+33.4 Adplugg WordPress plugin - The AdPlugg WordPress Ad Plugin is a simple plugin that allows you to display ads on your WordPress site.
+33.5 Ads by datarfeedr.com - Add and display ads randomly on your blog. Sort ads randomly, limit the number of ads that appear, display ads in posts, widgets or template files.
+33.6 Corner Ad - Corner Ad is a minimally invasive advertising display that uses any of your webpage's top corners - a position typically under-utilized by develop.
+33.7 Meks easy Ads Widget - Display unlimited number of ads inside your WordPress widget.
+33.8 Advanded Ads - Manage and optimize your ads as easy as creating posts. Including support for AdSense, ad injection, ad planning, ad widget, and ad rotation.
 
 
 ## Starter theme, plugin boiler plate.
