@@ -184,9 +184,10 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 31.5 Meta silder - Easy to use WordPress Slider plugin. Create responsive slideshows with Nivo Slider, Flex Slider, Coin Slider and Responsive Slides.
 ### 32. Menu
 32.1 Nav Menu Roles - This plugin lets you hide custom menu items based on user roles. So if you have a link in the menu that you only want to show to logged in users, certain types of users, or even only to logged out users, this plugin is for you.
-32.2 [Responsive Menu](https://wordpress.org/plugins/responsive-menu/) - This is a Highly Customisable Responsive Menu Plugin for WordPress 
 
+32.2 [Responsive Menu](https://wordpress.org/plugins/responsive-menu/) - This is a Highly Customisable Responsive Menu Plugin for WordPress 
 32.3 Max Mega Menu - Easy to use drag & drop WordPress Mega Menu plugin. Create Mega Menus using Widgets. Responsive, retina & touch ready.
+
 32.4 [WP Responsive Menu](https://wordpress.org/plugins/wp-responsive-menu/) - WP Responsive Menu is a simple plugin that lets you add a highly customizable responsive menu 
 ### 33. Ads
 33.1 AdRotate - The popular choice for monetizing your website with adverts while keeping things simple. Start making money today!
