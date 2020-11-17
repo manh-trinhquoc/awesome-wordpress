@@ -138,7 +138,7 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 29.3 Contact Form 7 - Just another contact form plugin. Simple but flexible.
 #### 29.4 Gravity Forms - Gravity Forms is a paid contact form plugin that has all the advanced functionality one can ask for.
     https://github.com/wp-premium/gravityforms
-    Khi hỏi license cứ next qua vẫn dùng được
+    Khi hỏi license cứ next qua vẫn dùng được. License chỉ dùng để update.
 ### 30. Photo gallery
 30.1 Gmedia Gallery - Powerful media library plugin with comments support for creating beautiful galleries and managing files
 
@@ -188,6 +188,7 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 4. [wp-browser](https://github.com/lucatume/wp-browser) - wp-browser provides easy acceptance, functional, integration and unit testing for WordPress plugins, themes and whole sites
 5. [WP_Model - Pseudo ORM for WordPress](https://github.com/anthonybudd/WP_Model) - A simple class for creating active record models of WordPress Posts
 6. [WP Bootstrap Navwalker](https://github.com/wp-bootstrap/wp-bootstrap-navwalker) - A custom WordPress Nav Walker Class to fully implement the Bootstrap 4 navigation style in a custom theme using the WordPress built in menu manager.
+7. [wp-premium](https://github.com/wp-premium) - Premium WordPress plugins and themes synchronized to GitHub.
 
 ## Website, blog
 ### 1. Small Personal Blog
