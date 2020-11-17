@@ -119,6 +119,7 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 15.1 ShortPixel Image Optimizer
 15.2 Imsanity
 15.3 Resize Image After Upload
+15.4 [Smush](https://wordpress.org/plugins/wp-smushit/) - Lazy Load Images, Optimize & Compress Images
 
 16. Widget Options – Add Context To WordPress Widgets
 17. WP Codeception - allows you to write and run Codeception tests for WordPress via WP CLI.
@@ -140,6 +141,7 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 23.1 WP-Optimize – Clean, Compress, Cache
 23.2 P3 (Plugin Performance Profiler)
 23.3 Plugin Load Filter -  deactivate unnecessary plugins for each individual post and page.
+23.4 [WP Rocket](https://github.com/wp-media/wp-rocket) - Performance optimization plugin for WordPress
 ### 24. Ecommerce
 24.1 Easy Digital Downloads – Simple Ecommerce for Selling Digital Files
 24.2 WooCommerce
