@@ -85,6 +85,8 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 
 9.12 WPScan - WordPress Security Scanner
 
+9.13 Jetpack – WP Security, Backup, Speed, & Growth
+
 
 10. Better Font Awesome - Insert fontawesomw icons without coding - Free
 11. FakerPress - Free
@@ -170,7 +172,24 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 33.6 Corner Ad - Corner Ad is a minimally invasive advertising display that uses any of your webpage's top corners - a position typically under-utilized by develop.
 33.7 Meks easy Ads Widget - Display unlimited number of ads inside your WordPress widget.
 33.8 Advanded Ads - Manage and optimize your ads as easy as creating posts. Including support for AdSense, ad injection, ad planning, ad widget, and ad rotation.
-
+### 34. Social Media
+34.1 Social Warfare - Social Warfare is a fully responsive social sharing plugin for WordPress. This plugin offers beautiful and highly customizable social sharing buttons for WordPress site. - Search github để lấy bản free
+34.2 Cresta Social Share Counter - Share your posts and pages quickly and easily with Cresta Social Share Count showing the share count.
+34.3 Shareaholic | share buttons & related posts - World's leading all-in-one Content Amplification Platform that helps grow your site traffic, engagement, conversions & monetization for FREE.
+34.4 Social Media Feather - Lightweight, nice, modern looking and effective social media sharing and following buttons and icons - all your social media needs in 1 easy package!
+34.5 Share Button Mashshare - Social Media Share Buttons for Twitter, Facebook and other social networks. Highly customizable Social Media ecosystem
+### 35. Forums
+35.1 bbPress - When it comes to integrating a forum into WordPress, bbPress is handsdown the best plugin for the job. It is built the WordPress way and uses the existing WordPress core to power your forum. We have a tutorial on how to set up bbPress in WordPress.
+35.2 BuddyPress - BuddyPress allows you to build your own social network with in WordPress. Just like bbPress, BuddyPress is also an official WordPress plugin. It follows the same coding practices and standards as WordPress.
+35.3 CM Answers - CM Answers allows you to build a Q & A community on your WordPress site. The basic free plugin comes with enough features to quickly set up a Stack Exchange like forum on your website.
+### 36. Newsletters
+36.1 Newsletter - Add a real newsletter system to your blog. For free. With unlimited newsletters and subscribers.
+36.2 ALO EasyMail Newsletter - To send newsletters. Features: collect subscribers on registration or with an ajax widget, mailing lists, cron batch sending, multilanguage, bounces.
+### 37. List posts with categories, tags, taxonomy
+37.1 List Category Posts - List Category Posts allows you to list posts by category in a post/page using the [catlist] shortcode.
+37.2 Ultimate Category Excluder - Ultimate Category Excluder allows you to quickly and easily exclude categories from your front page, archives, feeds, and search results.
+37.3 Remove Category URL - This plugin removes '/category' from your category permalinks. (e.g. /category/my-category/ to /my-category/)
+37.4 Category Color - Easily set a custom color per Post Category and use the colors in your WordPress templates to spice up your theme.
 
 ## Starter theme, plugin boiler plate.
 1. Astra free
@@ -189,6 +208,9 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 5. [WP_Model - Pseudo ORM for WordPress](https://github.com/anthonybudd/WP_Model) - A simple class for creating active record models of WordPress Posts
 6. [WP Bootstrap Navwalker](https://github.com/wp-bootstrap/wp-bootstrap-navwalker) - A custom WordPress Nav Walker Class to fully implement the Bootstrap 4 navigation style in a custom theme using the WordPress built in menu manager.
 7. [wp-premium](https://github.com/wp-premium) - Premium WordPress plugins and themes synchronized to GitHub.
+8. [WPPlugins](https://github.com/WPPlugins) - WordPress Plugins SVN -> Github Mirror.
+9. [WordPress Plugins SVN Mirror](https://github.com/wp-plugins) -  http://www.pluginmirror.com/
+
 
 ## Website, blog
 ### 1. Small Personal Blog
