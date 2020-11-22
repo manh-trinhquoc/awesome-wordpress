@@ -104,6 +104,8 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 
 9.13 Jetpack – WP Security, Backup, Speed, & Growth
 
+9.14 HTTP Headers - Gives your control over the http headers returned by your blog or website.
+
 
 10. Better Font Awesome - Insert fontawesomw icons without coding - Free
 11. FakerPress - Free
