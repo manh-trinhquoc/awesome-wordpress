@@ -239,7 +239,7 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 37.4 Category Color - Easily set a custom color per Post Category and use the colors in your WordPress templates to spice up your theme.
 
 ## Starter theme, plugin boiler plate.
-1. Astra free
+1. https://github.com/themosis/themosis
 2. Sage
 3. WP Emerge
 4. Gantry Framework
