@@ -75,8 +75,6 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
  
  7.9 WP Crontrol - view and control what’s happening in the WP-Cron system
 
-8. Auto Upload Images - Search for image urls which exists in post and automatically upload and import external images - Free
-
 ### 9. Plugin for security
 9.1 Banhammer - Monitor and ban suspicious visitor - Free
 
@@ -136,9 +134,12 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 
 20.4 Media from ZIP
 
+20.5 Auto Upload Images - Search for image urls which exists in post and automatically upload and import external images - Free
+
 21. Fly Dynamic Image Resizer - dynamically create image when the image is called for the first time, rather than when it is uploaded.
 
 22. Image Optimizer, Resizer and CDN - Paid solution, suitable for ecommerce site with lots of features
+
 ### 23. Performance
 23.1 WP-Optimize – Clean, Compress, Cache
 23.2 P3 (Plugin Performance Profiler)
