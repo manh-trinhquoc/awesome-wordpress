@@ -29,6 +29,10 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 4.2 Disable Admin Notices individually - Free
 4.3 Frontend Dashboard
 4.4 Admin Menu Editor - Lets you edit the WordPress admin menu. You can re-order, hide or rename menus, add custom menus and more.
+#### 4.5 White label wordpress
+4.5.1 https://wordpress.org/plugins/white-label/
+4.5.2 https://wordpress.org/plugins/white-label-cms/
+
 
 
 
@@ -51,6 +55,9 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 5.8 Redirection - Redirection is a WordPress plugin to manage 301 redirections and keep track of 404 errors without requiring knowledge of Apache .htaccess files.
 
 5.9 All In One Schema.org Rich Snippets - Boost CTR. Improve SEO & Rankings. Supports most of the content type. Works perfectly with Google, Bing, Yahoo & Facebook.
+
+5.10 https://wordpress.org/plugins/matomo/
+5.11 https://wordpress.org/plugins/nelio-ab-testing/
 
 6. Classic Editor - Switch gutenber to old editor - Free
 
