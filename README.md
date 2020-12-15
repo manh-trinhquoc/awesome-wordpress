@@ -265,7 +265,7 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 7. [wp-premium](https://github.com/wp-premium) - Premium WordPress plugins and themes synchronized to GitHub.
 8. [WPPlugins](https://github.com/WPPlugins) - WordPress Plugins SVN -> Github Mirror.
 9. [WordPress Plugins SVN Mirror](https://github.com/wp-plugins) -  http://www.pluginmirror.com/
-
+10. https://github.com/studio24/wordpress-multi-env-config  - Studio 24 WordPress Multi-Environment Config
 
 ## Website, blog
 ### 1. Small Personal Blog
