@@ -81,6 +81,8 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
  7.8 Transients Manager
  
  7.9 WP Crontrol - view and control what’s happening in the WP-Cron system
+ 
+ 7.10 https://wordpress.org/plugins/monkeyman-rewrite-analyzer/
 
 ### 9. Plugin for security
 9.1 Banhammer - Monitor and ban suspicious visitor - Free
