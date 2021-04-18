@@ -310,4 +310,4 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 3. [Find known vulnerabilities in WordPress plugins and themes using Burp Suite proxy. WPScan like plugin for Burp](https://github.com/kacperszurek/burp_wp)
 
 ## Testing
-1. [Easy acceptance, functional, integration and unit testing for WordPress plugins, themes and sites using Codeception.](https://wpbrowser.wptestkit.dev/)
+1. [The wp-browser project provides a Codeception based solution to test WordPress plugins, themes and whole sites at all levels of testing.](https://wpbrowser.wptestkit.dev/)
