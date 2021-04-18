@@ -255,7 +255,7 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 1. https://github.com/themosis/themosis
 2. Sage
 3. WP Emerge
-4. Gantry Framework
+4. [Gantry Framework](http://docs.gantry.org/)
 5. WP React Starter: WordPress React Boilerplate - Plugin boiler plate
 6. Kirki Customizer Framework
 7. https://lumberjack.rareloop.com/ - Supercharge your WordPress Development
