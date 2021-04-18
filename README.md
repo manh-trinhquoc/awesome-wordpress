@@ -260,6 +260,7 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 7. WP React Starter: WordPress React Boilerplate - Plugin boiler plate.
 8. Kirki Customizer Framework.
 9. [Supercharge your WordPress Development](https://lumberjack.rareloop.com/).
+10. [TypeRocket is an MVC WordPress framework with beautiful UI components, remarkable code performance, and elegant PHP syntax. Crafted to help you get work done in half the time](https://typerocket.com/)
 
 ## Helper library, code snippet
 1. [AJAX Action Wrapper](https://github.com/YahnisElsts/ajax-wrapper)
