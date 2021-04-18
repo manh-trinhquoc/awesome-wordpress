@@ -289,3 +289,7 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 4. [Awesome WordPress](https://github.com/miziomon/awesome-wordpress)
 5. [Awesome WordPress Developer Tips](https://github.com/Mte90/awesome-wordpress-developer-tips)
 6. [Awesome WordPress Plugins](https://github.com/designwall/Awesome-WordPress-Plugins)
+
+## Special purpose
+1. https://github.com/wp-plugins/no-longer-in-directory/
+2. https://gist.github.com/snshn/04faf406415769292e510d3fd2cecd21
