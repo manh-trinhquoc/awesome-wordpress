@@ -2,6 +2,8 @@
 My favuorite collection of resouces, plugins, themes and blogs about wordpress
 
 ## Plugins
+### 0. Plugin tiếng Việt
+1. https://wordpress.org/plugins/thanh-toan-quet-ma-qr-momozalo-paymoca-grab-airpay/
 ### 1. Page builder
     1.1 Elementor Pro - Page builder - Premium
     1.2 Elementor Column Order - Free
