@@ -256,10 +256,10 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 ### 2. Sage
 2.1 [A Sage fork ready for Woocommerce,with Bootstrap and automation in common tasks. Stop being a robot by customising common templates again & again and make your life easier with this boilerplate](https://github.com/joaodfmota/sage-woo).
 3. WP Emerge.
-4. [Gantry Framework](http://docs.gantry.org/)
-5. WP React Starter: WordPress React Boilerplate - Plugin boiler plate.
-6. Kirki Customizer Framework.
-7. [Supercharge your WordPress Development](https://lumberjack.rareloop.com/).
+5. [Gantry Framework](http://docs.gantry.org/).
+7. WP React Starter: WordPress React Boilerplate - Plugin boiler plate.
+8. Kirki Customizer Framework.
+9. [Supercharge your WordPress Development](https://lumberjack.rareloop.com/).
 
 ## Helper library, code snippet
 1. [AJAX Action Wrapper](https://github.com/YahnisElsts/ajax-wrapper)
@@ -294,3 +294,6 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 ## Special purpose
 1. https://github.com/wp-plugins/no-longer-in-directory/
 2. https://gist.github.com/snshn/04faf406415769292e510d3fd2cecd21
+### 3. Dection, scann tools
+1. [A WordPress detection tool, detects if a website is running WordPress.](https://github.com/IamLizu/wpdetect).
+2. [A cross-platform python based utility to identify wordpress plugins used by a website.](https://github.com/r0oth3x49/wp-plugin-checker).
