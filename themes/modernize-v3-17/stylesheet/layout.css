@@ -1,0 +1,41 @@
+/*
+* Skeleton V1.1
+* Copyright 2011, Dave Gamache
+* www.getskeleton.com
+* Free to use under the MIT license.
+* http://www.opensource.org/licenses/mit-license.php
+* 8/17/2011
+*/
+
+/* Table of Content
+==================================================
+	#Site Styles
+	#Page Styles
+	#Media Queries
+	#Font-Face */
+
+/* #Site Styles
+================================================== */
+
+/* #Page Styles
+================================================== */
+	
+/* #Media Queries
+================================================== */
+	
+	img{ max-width: 100%; height: auto; }
+	
+	/* Normal Size with no sidebar */
+	div.boxed-layout div.slider-wrapper.fullwidth{ width: 980px; margin-left: -20px; }
+	div.boxed-layout div.stunning-text-wrapper{ width: 960px; margin-left: -10px; padding-left: 10px; padding-right: 10px; }
+	div.top-navigation-wrapper{ min-width: 980px; }
+
+	/* Normal Size with one sidebar */
+	div.boxed-layout div.sidebar-included.left-sidebar .stunning-text-wrapper{ width: 660px; margin-left:-10px; }
+	div.boxed-layout div.sidebar-included.right-sidebar .stunning-text-wrapper{ width: 660px; margin-left: -10px; }
+	
+	/* Normal Size with both sidebar */
+	div.boxed-layout div.both-sidebar-included .stunning-text-wrapper{ width: 480px; margin-left: -10px; }	
+	div.both-sidebar-included .stunning-text-button-wrapper{ float: none; display: block; margin: auto; }
+	div.both-sidebar-included a.stunning-text-button{ float: none; display: inline-block; margin-right: 0px; }
+	

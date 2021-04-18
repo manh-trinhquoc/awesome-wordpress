@@ -1,0 +1,1586 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Modernize\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-06 19:55+0700\n"
+"PO-Revision-Date: 2012-04-06 19:56+0700\n"
+"Last-Translator: Navapon <nao.null@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: C:\\AppServ\\www\\original\\wp-content\\themes\\modernize\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:12
+msgid "Sorry"
+msgstr ""
+
+#: 404.php:13
+msgid "The page you are finding seem doesn't exist."
+msgstr ""
+
+#: comments.php:13
+msgid "No Comment"
+msgstr ""
+
+#: comments.php:13
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:13
+#: single-portfolio.php:165
+#: single.php:57
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:35
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:43
+msgid "Name"
+msgstr ""
+
+#: comments.php:49
+msgid "Email"
+msgstr ""
+
+#: comments.php:55
+msgid "Website"
+msgstr ""
+
+#: search.php:57
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr ""
+
+#: search.php:62
+msgid "Search"
+msgstr ""
+
+#: single-portfolio.php:20
+msgid "Client"
+msgstr ""
+
+#: single-portfolio.php:21
+msgid "Visit Website"
+msgstr ""
+
+#: single-portfolio.php:22
+#: single.php:20
+msgid "About the Author"
+msgstr ""
+
+#: single-portfolio.php:23
+#: single.php:21
+msgid "Social Share"
+msgstr ""
+
+#: single-portfolio.php:113
+msgid "Date:"
+msgstr ""
+
+#: single-portfolio.php:118
+msgid "Tags:"
+msgstr ""
+
+#: single-portfolio.php:160
+#: single.php:51
+msgid "by"
+msgstr ""
+
+#: single-portfolio.php:164
+#: single.php:55
+msgid "0 Comment"
+msgstr ""
+
+#: single-portfolio.php:164
+#: single.php:56
+msgid "1 Comment"
+msgstr ""
+
+#: single-portfolio.php:165
+#: single.php:58
+msgid "Comments are off"
+msgstr ""
+
+#: include/gallery-option.php:22
+msgid "Add New Gallery"
+msgstr ""
+
+#: include/gallery-option.php:23
+msgid "Edit Gallery"
+msgstr ""
+
+#: include/gallery-option.php:24
+msgid "New Gallery"
+msgstr ""
+
+#: include/gallery-option.php:26
+msgid "Search Gallery"
+msgstr ""
+
+#: include/gallery-option.php:27
+#: include/portfolio-option.php:28
+#: include/price-table-option.php:27
+#: include/testimonial-option.php:27
+msgid "Nothing found"
+msgstr ""
+
+#: include/gallery-option.php:28
+#: include/portfolio-option.php:29
+#: include/price-table-option.php:28
+#: include/testimonial-option.php:28
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: include/gallery-option.php:56
+#: include/page-option.php:619
+#: include/portfolio-option.php:213
+#: include/portfolio-option.php:266
+#: include/post-option.php:99
+#: include/post-option.php:152
+msgid "SELECT IMAGES"
+msgstr ""
+
+#: include/gallery-option.php:70
+msgid "Gallery Option"
+msgstr ""
+
+#: include/gallery-option.php:209
+#: include/gallery-option.php:252
+#: include/meta-template.php:393
+#: include/meta-template.php:444
+msgid "LINK TYPE"
+msgstr ""
+
+#: include/gallery-option.php:218
+#: include/gallery-option.php:262
+#: include/meta-template.php:403
+#: include/meta-template.php:455
+msgid "URL PATH"
+msgstr ""
+
+#: include/goodlayers-option.php:18
+msgid "General"
+msgstr ""
+
+#: include/goodlayers-option.php:19
+msgid "Page Style"
+msgstr ""
+
+#: include/goodlayers-option.php:20
+msgid "Sidebar"
+msgstr ""
+
+#: include/goodlayers-option.php:21
+msgid "Footer Style"
+msgstr ""
+
+#: include/goodlayers-option.php:22
+msgid "Google Analytics"
+msgstr ""
+
+#: include/goodlayers-option.php:23
+msgid "Favicon"
+msgstr ""
+
+#: include/goodlayers-option.php:25
+msgid "Font Style"
+msgstr ""
+
+#: include/goodlayers-option.php:26
+msgid "Font Size"
+msgstr ""
+
+#: include/goodlayers-option.php:27
+msgid "Font Family"
+msgstr ""
+
+#: include/goodlayers-option.php:28
+msgid "Upload Font"
+msgstr ""
+
+#: include/goodlayers-option.php:30
+msgid "Overall Elements"
+msgstr ""
+
+#: include/goodlayers-option.php:31
+msgid "Logo"
+msgstr ""
+
+#: include/goodlayers-option.php:32
+msgid "Top Navigation"
+msgstr ""
+
+#: include/goodlayers-option.php:33
+msgid "Background Style"
+msgstr ""
+
+#: include/goodlayers-option.php:34
+msgid "Top Right Area"
+msgstr ""
+
+#: include/goodlayers-option.php:35
+msgid "Social Network"
+msgstr ""
+
+#: include/goodlayers-option.php:36
+msgid "Social Shares"
+msgstr ""
+
+#: include/goodlayers-option.php:37
+msgid "Copyright Area"
+msgstr ""
+
+#: include/goodlayers-option.php:40
+msgid "Elements Color"
+msgstr ""
+
+#: include/goodlayers-option.php:41
+msgid "Navigation"
+msgstr ""
+
+#: include/goodlayers-option.php:42
+msgid "Top Search"
+msgstr ""
+
+#: include/goodlayers-option.php:43
+msgid "Body"
+msgstr ""
+
+#: include/goodlayers-option.php:44
+msgid "Footer"
+msgstr ""
+
+#: include/goodlayers-option.php:45
+msgid "Slider"
+msgstr ""
+
+#: include/goodlayers-option.php:46
+msgid "Blog / Portfolio"
+msgstr ""
+
+#: include/goodlayers-option.php:47
+msgid "Contact Form/Comments"
+msgstr ""
+
+#: include/goodlayers-option.php:48
+msgid "Stunning Text"
+msgstr ""
+
+#: include/goodlayers-option.php:49
+#: include/goodlayers-option.php:58
+msgid "Additional Elements"
+msgstr ""
+
+#: include/goodlayers-option.php:50
+msgid "Price Item"
+msgstr ""
+
+#: include/goodlayers-option.php:51
+msgid "Load Default Color"
+msgstr ""
+
+#: include/goodlayers-option.php:53
+msgid "Translator"
+msgstr ""
+
+#: include/goodlayers-option.php:54
+msgid "Enable Admin Translator"
+msgstr ""
+
+#: include/goodlayers-option.php:55
+msgid "Blog/Portfolio"
+msgstr ""
+
+#: include/goodlayers-option.php:56
+msgid "Contact Form"
+msgstr ""
+
+#: include/goodlayers-option.php:57
+msgid "Contact Widget"
+msgstr ""
+
+#: include/goodlayers-option.php:61
+msgid "Slider Setting"
+msgstr ""
+
+#: include/goodlayers-option.php:62
+msgid "Nivo Slider"
+msgstr ""
+
+#: include/goodlayers-option.php:63
+msgid "Flex Slider"
+msgstr ""
+
+#: include/goodlayers-option.php:64
+msgid "Anything Slider"
+msgstr ""
+
+#: include/goodlayers-option.php:72
+msgid "ENABLE RESPONSIVE"
+msgstr ""
+
+#: include/goodlayers-option.php:78
+msgid "USE PORTFOLIO PAGE AS"
+msgstr ""
+
+#: include/goodlayers-option.php:83
+msgid "CHANGE PORTFOLIO SLUG"
+msgstr ""
+
+#: include/goodlayers-option.php:89
+msgid "SEARCH/ARCHIVE SIDEBAR"
+msgstr ""
+
+#: include/goodlayers-option.php:98
+msgid "SEARCH/ARCHIVE EXCERPT NUM"
+msgstr ""
+
+#: include/goodlayers-option.php:103
+msgid "SEARCH/ARCHIVE ITEM SIZE"
+msgstr ""
+
+#: include/goodlayers-option.php:108
+msgid "DEFAULT POST SIDEBAR"
+msgstr ""
+
+#: include/goodlayers-option.php:117
+msgid "DEFAULT POST LEFT SIDEBAR"
+msgstr ""
+
+#: include/goodlayers-option.php:122
+msgid "DEFAULT POST RIGHT SIDEBAR"
+msgstr ""
+
+#: include/goodlayers-option.php:130
+msgid "CREATE SIDEBAR"
+msgstr ""
+
+#: include/goodlayers-option.php:134
+msgid "CHOOSE FOOTER STYLE"
+msgstr ""
+
+#: include/goodlayers-option.php:146
+msgid "SHOW FOOTER"
+msgstr ""
+
+#: include/goodlayers-option.php:147
+msgid "SHOW COPYRIGHT"
+msgstr ""
+
+#: include/goodlayers-option.php:151
+msgid "ENABLE GOOGLE ANALYTICS"
+msgstr ""
+
+#: include/goodlayers-option.php:152
+msgid "GOOGLE ANALYTICS CODE"
+msgstr ""
+
+#: include/goodlayers-option.php:159
+msgid "ENABLE FAVICON"
+msgstr ""
+
+#: include/goodlayers-option.php:160
+msgid "UPLOAD FAVICON ICON"
+msgstr ""
+
+#: include/goodlayers-option.php:165
+msgid "H1 SIZE"
+msgstr ""
+
+#: include/goodlayers-option.php:166
+msgid "H2 SIZE"
+msgstr ""
+
+#: include/goodlayers-option.php:167
+msgid "H3 SIZE"
+msgstr ""
+
+#: include/goodlayers-option.php:168
+msgid "H4 SIZE"
+msgstr ""
+
+#: include/goodlayers-option.php:169
+msgid "H5 SIZE"
+msgstr ""
+
+#: include/goodlayers-option.php:170
+msgid "H6 SIZE"
+msgstr ""
+
+#: include/goodlayers-option.php:174
+msgid "HEADER FONT"
+msgstr ""
+
+#: include/goodlayers-option.php:176
+msgid "CONTENT FONT"
+msgstr ""
+
+#: include/goodlayers-option.php:178
+msgid "STUNNING TEXT FONT"
+msgstr ""
+
+#: include/goodlayers-option.php:184
+msgid "UPLOAD FONT"
+msgstr ""
+
+#: include/goodlayers-option.php:192
+msgid "LOGO"
+msgstr ""
+
+#: include/goodlayers-option.php:193
+msgid "LOGO TOP MARGIN"
+msgstr ""
+
+#: include/goodlayers-option.php:195
+msgid "LOGO LEFT MARGIN"
+msgstr ""
+
+#: include/goodlayers-option.php:196
+msgid "LOGO BOTTOM MARGIN"
+msgstr ""
+
+#: include/goodlayers-option.php:201
+msgid "ENABLE TOP NAVIGATION"
+msgstr ""
+
+#: include/goodlayers-option.php:203
+msgid "ENABLE TOP SEARCH"
+msgstr ""
+
+#: include/goodlayers-option.php:205
+msgid "TOP NAVIGATION RIGHT TEXT"
+msgstr ""
+
+#: include/goodlayers-option.php:209
+msgid "BACKGROUND TYPE"
+msgstr ""
+
+#: include/goodlayers-option.php:211
+msgid "CHOOSE PATTERN"
+msgstr ""
+
+#: include/goodlayers-option.php:234
+msgid "CUSTOM BACKGROUND"
+msgstr ""
+
+#: include/goodlayers-option.php:241
+msgid "TEXT ABOVE ICON"
+msgstr ""
+
+#: include/goodlayers-option.php:246
+msgid "MARGIN TOP"
+msgstr ""
+
+#: include/goodlayers-option.php:248
+#: include/goodlayers-option.php:290
+msgid "DELICIOUS"
+msgstr ""
+
+#: include/goodlayers-option.php:250
+msgid "DEVIANTART"
+msgstr ""
+
+#: include/goodlayers-option.php:252
+#: include/goodlayers-option.php:292
+msgid "DIGG"
+msgstr ""
+
+#: include/goodlayers-option.php:254
+#: include/goodlayers-option.php:280
+msgid "FACEBOOK"
+msgstr ""
+
+#: include/goodlayers-option.php:256
+msgid "FLICKR"
+msgstr ""
+
+#: include/goodlayers-option.php:258
+msgid "LASTFM"
+msgstr ""
+
+#: include/goodlayers-option.php:260
+#: include/goodlayers-option.php:296
+msgid "LINKEDIN"
+msgstr ""
+
+#: include/goodlayers-option.php:262
+msgid "PICASA"
+msgstr ""
+
+#: include/goodlayers-option.php:264
+msgid "RSS"
+msgstr ""
+
+#: include/goodlayers-option.php:266
+#: include/goodlayers-option.php:286
+msgid "STUMBLE UPON"
+msgstr ""
+
+#: include/goodlayers-option.php:268
+msgid "TUMBLR"
+msgstr ""
+
+#: include/goodlayers-option.php:270
+#: include/goodlayers-option.php:282
+msgid "TWITTER"
+msgstr ""
+
+#: include/goodlayers-option.php:272
+msgid "VIMEO"
+msgstr ""
+
+#: include/goodlayers-option.php:274
+msgid "YOUTUBE"
+msgstr ""
+
+#: include/goodlayers-option.php:284
+msgid "GOOGLE"
+msgstr ""
+
+#: include/goodlayers-option.php:288
+msgid "MY SPACE"
+msgstr ""
+
+#: include/goodlayers-option.php:294
+msgid "REDDIT"
+msgstr ""
+
+#: include/goodlayers-option.php:302
+msgid "COPYRIGHT LEFT AREA"
+msgstr ""
+
+#: include/goodlayers-option.php:303
+msgid "COPYRIGHT RIGHT AREA"
+msgstr ""
+
+#: include/goodlayers-option.php:313
+msgid "TOP NAVIGATION BACKGROUND"
+msgstr ""
+
+#: include/goodlayers-option.php:314
+msgid "TOP NAVIGATION BOTTOM BAR"
+msgstr ""
+
+#: include/goodlayers-option.php:316
+msgid "TOP NAVIGATION TEXT COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:317
+msgid "MAIN NAVIGATION GRADIENT"
+msgstr ""
+
+#: include/goodlayers-option.php:318
+msgid "MAIN NAVIGATION BACKGROUND"
+msgstr ""
+
+#: include/goodlayers-option.php:319
+msgid "MAIN NAVIGATION BORDER LEFT"
+msgstr ""
+
+#: include/goodlayers-option.php:321
+msgid "MAIN NAVIGATION BORDER RIGHT"
+msgstr ""
+
+#: include/goodlayers-option.php:323
+msgid "MAIN NAVIGATION BORDER TOP/BOTTOM"
+msgstr ""
+
+#: include/goodlayers-option.php:325
+msgid "MAIN NAVIGATION TEXT"
+msgstr ""
+
+#: include/goodlayers-option.php:327
+msgid "MAIN NAVIGATION TEXT HOVER"
+msgstr ""
+
+#: include/goodlayers-option.php:329
+msgid "MAIN NAVIGATION TEXT CURRENT"
+msgstr ""
+
+#: include/goodlayers-option.php:331
+msgid "MAIN NAVIGATION BOTTOM SHADOW"
+msgstr ""
+
+#: include/goodlayers-option.php:333
+msgid "SUB NAVIGATION BACKGROUND"
+msgstr ""
+
+#: include/goodlayers-option.php:334
+msgid "SUB NAVIGATION BORDER"
+msgstr ""
+
+#: include/goodlayers-option.php:335
+msgid "SUB NAVIGATION TEXT"
+msgstr ""
+
+#: include/goodlayers-option.php:336
+msgid "SUB NAVIGATION TEXT HOVER"
+msgstr ""
+
+#: include/goodlayers-option.php:337
+msgid "SUB NAVIGATION TEXT CURRENT"
+msgstr ""
+
+#: include/goodlayers-option.php:341
+msgid "SEARCH BOX BACKGROUND COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:342
+msgid "SEARCH BOX SHADOW COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:344
+msgid "SEARCH BOX TEXT COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:348
+msgid "ICON STYLE"
+msgstr ""
+
+#: include/goodlayers-option.php:353
+msgid "TITLE COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:355
+msgid "SIDEBAR TITLE COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:356
+msgid "CONTENT COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:357
+msgid "BODY BACKGROUND"
+msgstr ""
+
+#: include/goodlayers-option.php:359
+msgid "CONTAINER BACKGROUND"
+msgstr ""
+
+#: include/goodlayers-option.php:361
+msgid "CONTAINER SHADOW"
+msgstr ""
+
+#: include/goodlayers-option.php:362
+msgid "LINK COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:364
+msgid "LINK HOVER COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:366
+msgid "ELEMENTS SHADOW"
+msgstr ""
+
+#: include/goodlayers-option.php:368
+msgid "TABLE BORDER (TABLE TAG)"
+msgstr ""
+
+#: include/goodlayers-option.php:369
+msgid "TABLE TITLE TEXT COLOR (TH TAG)"
+msgstr ""
+
+#: include/goodlayers-option.php:370
+msgid "TABLE TITLE BACKGROUND (TH TAG)"
+msgstr ""
+
+#: include/goodlayers-option.php:375
+msgid "FOOTER ICON TYPE"
+msgstr ""
+
+#: include/goodlayers-option.php:377
+msgid "FOOTER LINK COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:379
+msgid "FOOTER LINK HOVER COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:381
+msgid "FOOTER TITLE COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:382
+msgid "FOOTER CONTENT COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:383
+msgid "FOOTER CONTENT INFO COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:385
+msgid "FOOTER BACKGROUND"
+msgstr ""
+
+#: include/goodlayers-option.php:386
+msgid "FOOTER TOP BAR"
+msgstr ""
+
+#: include/goodlayers-option.php:388
+msgid "FOOTER DIVIDER COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:389
+msgid "FOOTER INPUT BOX TEXT"
+msgstr ""
+
+#: include/goodlayers-option.php:391
+msgid "FOOTER INPUT BOX BACKGROUND"
+msgstr ""
+
+#: include/goodlayers-option.php:392
+msgid "FOOTER INPUT BOX BORDER"
+msgstr ""
+
+#: include/goodlayers-option.php:393
+msgid "FOOTER BUTTON COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:395
+msgid "FOOTER BUTTON TEXT COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:396
+msgid "FOOTER FRAME BACKGROUND"
+msgstr ""
+
+#: include/goodlayers-option.php:398
+msgid "FOOTER FRAME BORDER"
+msgstr ""
+
+#: include/goodlayers-option.php:399
+msgid "COPYRIGHT TEXT COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:400
+msgid "COPYRIGHT BACKGROUND"
+msgstr ""
+
+#: include/goodlayers-option.php:401
+msgid "COPYRIGHT SHADOW COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:406
+msgid "SLIDER TITLE COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:407
+msgid "SLIDER CAPTION COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:408
+msgid "TOP SLIDER BOTTOM LINE"
+msgstr ""
+
+#: include/goodlayers-option.php:413
+msgid "PORT TITLE COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:415
+msgid "PORT TITLE HOVER COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:417
+msgid "BLOG TITLE COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:419
+msgid "BLOG TITLE HOVER COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:421
+msgid "BLOG INFO COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:423
+msgid "BLOG (WIDGET STYLE) TITLE"
+msgstr ""
+
+#: include/goodlayers-option.php:424
+msgid "BLOG/PORT FRAME COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:425
+msgid "BLOG/PORT FRAME BORDER COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:426
+msgid "BLOG ABOUT AUTHOR BACKGROUND"
+msgstr ""
+
+#: include/goodlayers-option.php:428
+msgid "PAGINATION NORMAL STATE"
+msgstr ""
+
+#: include/goodlayers-option.php:433
+msgid "CONTACT FORM/COMMENT BACKGROUND COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:435
+msgid "CONTACT FORM/COMMENT TEXT COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:437
+msgid "CONTACT FORM/COMMENT BORDER COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:438
+msgid "CONTACT FORM/COMMENT FRAME COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:439
+msgid "CONTACT FORM/COMMENT INNER SHADOW"
+msgstr ""
+
+#: include/goodlayers-option.php:444
+msgid "STUNNING TEXT TITLE COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:445
+msgid "STUNNING TEXT CAPTION COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:446
+msgid "STUNNING TEXT BACKGROUND COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:447
+msgid "STUNNING TEXT BUTTON TEXT COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:449
+msgid "STUNNING TEXT BUTTON BACKGROUND"
+msgstr ""
+
+#: include/goodlayers-option.php:454
+msgid "DIVIDER LINE COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:456
+msgid "DIVIDER ITEM BACK TO TOP TEXT"
+msgstr ""
+
+#: include/goodlayers-option.php:458
+msgid "TAB BACKGROUND"
+msgstr ""
+
+#: include/goodlayers-option.php:460
+msgid "TAB TEXT COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:461
+msgid "TAB ACTIVE BACKGROUND"
+msgstr ""
+
+#: include/goodlayers-option.php:463
+msgid "TAB ACTIVE TEXT COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:464
+msgid "TAB BORDER COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:465
+msgid "COLUMN SERVICE TITLE COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:466
+msgid "TESTIMONIAL TEXT COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:467
+msgid "TESTIMONIAL TEXT AUTHOR COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:468
+msgid "TESTIMONIAL TEXT POSITION COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:469
+msgid "BUTTON BACKGROUND COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:471
+msgid "BUTTON BORDER COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:473
+msgid "BUTTON TEXT COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:475
+msgid "BUTTON TEXT HOVER COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:480
+msgid "PRICE TEXT COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:482
+msgid "BEST PRICE TEXT COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:484
+msgid "PRICE TITLE COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:486
+msgid "BEST PRICE TITLE COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:488
+msgid "PRICE TITLE BACKGROUND"
+msgstr ""
+
+#: include/goodlayers-option.php:489
+msgid "BEST PRICE TITLE BACKGROUND"
+msgstr ""
+
+#: include/goodlayers-option.php:490
+msgid "PRICE ITEM BORDER"
+msgstr ""
+
+#: include/goodlayers-option.php:495
+msgid "LOAD DEFAULT ELEMENTS COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:502
+msgid "ENABLE ADMIN TRANSLATOR"
+msgstr ""
+
+#: include/goodlayers-option.php:506
+msgid "SOCIAL SHARE (BLOG/PORTFOLIO)"
+msgstr ""
+
+#: include/goodlayers-option.php:507
+msgid "LEAVE A REPLY (BLOG)"
+msgstr ""
+
+#: include/goodlayers-option.php:508
+msgid "ABOUT THE AUTHOR (BLOG)"
+msgstr ""
+
+#: include/goodlayers-option.php:509
+msgid "CLIENT (PORTFOLIO)"
+msgstr ""
+
+#: include/goodlayers-option.php:510
+msgid "READ MORE (PORTFOLIO)"
+msgstr ""
+
+#: include/goodlayers-option.php:511
+msgid "VISIT WEBSITE (PORTFOLIO)"
+msgstr ""
+
+#: include/goodlayers-option.php:512
+msgid "VIEW ALL PROJECTS (PORTFOLIO)"
+msgstr ""
+
+#: include/goodlayers-option.php:513
+msgid "CONTINUE READING (BLOG)"
+msgstr ""
+
+#: include/goodlayers-option.php:517
+msgid "NAME (CONTACT FORM)"
+msgstr ""
+
+#: include/goodlayers-option.php:518
+msgid "NAME ERROR (CONTACT FORM)"
+msgstr ""
+
+#: include/goodlayers-option.php:519
+msgid "EMAIL (CONTACT FORM)"
+msgstr ""
+
+#: include/goodlayers-option.php:520
+msgid "EMAIL ERROR (CONTACT FORM)"
+msgstr ""
+
+#: include/goodlayers-option.php:521
+msgid "MESSAGE (CONTACT FORM)"
+msgstr ""
+
+#: include/goodlayers-option.php:522
+msgid "MESSAGE ERROR (CONTACT FORM)"
+msgstr ""
+
+#: include/goodlayers-option.php:523
+msgid "SUBMIT BUTTON (CONTACT FORM)"
+msgstr ""
+
+#: include/goodlayers-option.php:524
+msgid "SEND ERROR (CONTACT FORM)"
+msgstr ""
+
+#: include/goodlayers-option.php:525
+msgid "SEND COMPLETE (CONTACT FORM)"
+msgstr ""
+
+#: include/goodlayers-option.php:529
+msgid "NAME (CONTACT WIDGET)"
+msgstr ""
+
+#: include/goodlayers-option.php:530
+msgid "EMAIL (CONTACT WIDGET)"
+msgstr ""
+
+#: include/goodlayers-option.php:531
+msgid "MESSAGE (CONTACT WIDGET)"
+msgstr ""
+
+#: include/goodlayers-option.php:532
+msgid "REQUIRE (CONTACT WIDGET)"
+msgstr ""
+
+#: include/goodlayers-option.php:533
+msgid "PLEASE WAIT (CONTACT WIDGET)"
+msgstr ""
+
+#: include/goodlayers-option.php:534
+msgid "SENDING COMPLETE (CONTACT WIDGET)"
+msgstr ""
+
+#: include/goodlayers-option.php:535
+msgid "SUBMIT BUTTON (CONTACT WIDGET)"
+msgstr ""
+
+#: include/goodlayers-option.php:539
+msgid "READ MORE (PRICE ITEM)"
+msgstr ""
+
+#: include/goodlayers-option.php:540
+msgid "404 TITLE (404 PAGE)"
+msgstr ""
+
+#: include/goodlayers-option.php:541
+msgid "404 CONTENT (404 PAGE)"
+msgstr ""
+
+#: include/goodlayers-option.php:542
+msgid "SEARCH NOT FOUND (SEARCH PAGE)"
+msgstr ""
+
+#: include/goodlayers-option.php:547
+#: include/goodlayers-option.php:574
+msgid "SLIDER EFFECTS"
+msgstr ""
+
+#: include/goodlayers-option.php:558
+#: include/goodlayers-option.php:576
+#: include/goodlayers-option.php:590
+msgid "PAUSE ON HOVER"
+msgstr ""
+
+#: include/goodlayers-option.php:560
+#: include/goodlayers-option.php:578
+#: include/goodlayers-option.php:592
+msgid "SHOW BULLETS"
+msgstr ""
+
+#: include/goodlayers-option.php:562
+msgid "SHOW LEFT/RIGHT NAVIGATION"
+msgstr ""
+
+#: include/goodlayers-option.php:564
+#: include/goodlayers-option.php:598
+msgid "ONLY SHOW NAVIGATION WHEN HOVER"
+msgstr ""
+
+#: include/goodlayers-option.php:566
+#: include/goodlayers-option.php:582
+#: include/goodlayers-option.php:600
+msgid "ANIMATION SPEED"
+msgstr ""
+
+#: include/goodlayers-option.php:568
+#: include/goodlayers-option.php:584
+#: include/goodlayers-option.php:602
+msgid "PAUSE TIME"
+msgstr ""
+
+#: include/goodlayers-option.php:570
+msgid "CAPTION OPACITY"
+msgstr ""
+
+#: include/goodlayers-option.php:580
+#: include/goodlayers-option.php:596
+msgid "SHOW NAVIGATION"
+msgstr ""
+
+#: include/goodlayers-option.php:586
+msgid "PAUSE ON ACTION"
+msgstr ""
+
+#: include/goodlayers-option.php:594
+msgid "ONLY SHOW BULLETS WHEN HOVER"
+msgstr ""
+
+#: include/goodlayers-option.php:754
+#: include/goodlayers-option.php:766
+msgid "Save Changes"
+msgstr ""
+
+#: include/goodlayers-option.php:1269
+#: include/goodlayers-option.php:1293
+msgid "Font Name"
+msgstr ""
+
+#: include/goodlayers-option.php:1273
+#: include/goodlayers-option.php:1297
+msgid "Font File"
+msgstr ""
+
+#: include/meta-template.php:387
+#: include/meta-template.php:438
+msgid "SLIDER TITLE"
+msgstr ""
+
+#: include/meta-template.php:390
+#: include/meta-template.php:441
+msgid "SLIDER CAPTION"
+msgstr ""
+
+#: include/meta-template.php:404
+#: include/meta-template.php:456
+msgid "VIDEO PATH (ONLY FOR ANYTHING SLIDER)"
+msgstr ""
+
+#: include/page-option.php:157
+#: include/page-option.php:544
+msgid "HEADER TITLE"
+msgstr ""
+
+#: include/page-option.php:225
+msgid "IMAGE"
+msgstr ""
+
+#: include/page-option.php:230
+msgid "TITLE"
+msgstr ""
+
+#: include/page-option.php:234
+msgid "CAPTION"
+msgstr ""
+
+#: include/page-option.php:559
+msgid "SELECT LAYOUT"
+msgstr ""
+
+#: include/page-option.php:573
+#: include/portfolio-option.php:121
+#: include/post-option.php:32
+msgid "CHOOSE LEFT SIDEBAR"
+msgstr ""
+
+#: include/page-option.php:580
+#: include/portfolio-option.php:128
+#: include/post-option.php:40
+msgid "CHOOSE RIGHT SIDEBAR"
+msgstr ""
+
+#: include/page-option.php:589
+msgid "SHOW PAGE TITLE"
+msgstr ""
+
+#: include/page-option.php:597
+msgid "SHOW PAGE CONTENT"
+msgstr ""
+
+#: include/page-option.php:601
+msgid "TOP SLIDER TYPE"
+msgstr ""
+
+#: include/page-option.php:610
+msgid "TOP SLIDER HEIGHT"
+msgstr ""
+
+#: include/page-option.php:635
+msgid "Page Option"
+msgstr ""
+
+#: include/page-option.php:896
+msgid "ADD ITEMS"
+msgstr ""
+
+#: include/portfolio-option.php:23
+msgid "Add New Portfolio"
+msgstr ""
+
+#: include/portfolio-option.php:24
+msgid "Edit Portfolio"
+msgstr ""
+
+#: include/portfolio-option.php:25
+msgid "New Portfolio"
+msgstr ""
+
+#: include/portfolio-option.php:26
+msgid "View Portfolio"
+msgstr ""
+
+#: include/portfolio-option.php:27
+msgid "Search Portfolio"
+msgstr ""
+
+#: include/portfolio-option.php:109
+#: include/post-option.php:20
+msgid "SIDEBAR TEMPLATE"
+msgstr ""
+
+#: include/portfolio-option.php:134
+msgid "CLIENTS NAME"
+msgstr ""
+
+#: include/portfolio-option.php:140
+msgid "WEBSITE URL"
+msgstr ""
+
+#: include/portfolio-option.php:146
+#: include/post-option.php:47
+msgid "SHOW AUTHOR INFORMATION"
+msgstr ""
+
+#: include/portfolio-option.php:153
+#: include/post-option.php:54
+msgid "SOCIAL NETWORK SHARING"
+msgstr ""
+
+#: include/portfolio-option.php:163
+#: include/post-option.php:62
+msgid "THUMBNAIL TYPES"
+msgstr ""
+
+#: include/portfolio-option.php:177
+msgid "USE FEATURED IMAGE AS"
+msgstr ""
+
+#: include/portfolio-option.php:190
+msgid "SPECIFIC URL"
+msgstr ""
+
+#: include/portfolio-option.php:201
+#: include/portfolio-option.php:253
+#: include/post-option.php:87
+#: include/post-option.php:139
+msgid "VIDEO URL"
+msgstr ""
+
+#: include/portfolio-option.php:228
+#: include/post-option.php:114
+msgid "INSIDE POST THUMBNAIL TYPES"
+msgstr ""
+
+#: include/portfolio-option.php:242
+#: include/post-option.php:128
+msgid "SELECT IMAGE"
+msgstr ""
+
+#: include/portfolio-option.php:283
+msgid "Portfolio Option"
+msgstr ""
+
+#: include/post-option.php:76
+msgid "Use Featured Image as Thumbnail Image"
+msgstr ""
+
+#: include/post-option.php:169
+msgid "Post Option"
+msgstr ""
+
+#: include/price-table-option.php:22
+#: include/price-table-option.php:23
+msgid "Price Table Name"
+msgstr ""
+
+#: include/price-table-option.php:24
+msgid "New Price Table"
+msgstr ""
+
+#: include/price-table-option.php:26
+msgid "Search Price Table"
+msgstr ""
+
+#: include/price-table-option.php:87
+msgid "Price Tag"
+msgstr ""
+
+#: include/price-table-option.php:91
+msgid "BUTTON LINK TO URL"
+msgstr ""
+
+#: include/price-table-option.php:95
+msgid "BEST PRICE"
+msgstr ""
+
+#: include/price-table-option.php:107
+msgid "Price Table Option"
+msgstr ""
+
+#: include/testimonial-option.php:22
+#: include/testimonial-option.php:23
+msgid "Author Name"
+msgstr ""
+
+#: include/testimonial-option.php:24
+msgid "New Testimonial"
+msgstr ""
+
+#: include/testimonial-option.php:26
+msgid "Search Testimonial"
+msgstr ""
+
+#: include/testimonial-option.php:87
+msgid "AUTHOR POSITION"
+msgstr ""
+
+#: include/testimonial-option.php:95
+msgid "Testimonial Option"
+msgstr ""
+
+#: include/plugin/blog-item.php:158
+#: include/plugin/blog-item.php:197
+msgid "Continue Reading →"
+msgstr ""
+
+#: include/plugin/comment.php:25
+msgid "Pingback:"
+msgstr ""
+
+#: include/plugin/comment.php:27
+msgid "(Edit)"
+msgstr ""
+
+#: include/plugin/comment.php:43
+msgid "at"
+msgstr ""
+
+#: include/plugin/dropdown-menus.php:181
+msgid "Use this widget to add one of your custom menus as a dropdown."
+msgstr ""
+
+#: include/plugin/dropdown-menus.php:182
+msgid "Dropdown Menu"
+msgstr ""
+
+#: include/plugin/dropdown-menus.php:219
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: include/plugin/dropdown-menus.php:224
+msgid "Title:"
+msgstr ""
+
+#: include/plugin/dropdown-menus.php:228
+msgid "Select Menu:"
+msgstr ""
+
+#: include/plugin/page-item.php:319
+#: include/plugin/page-item.php:579
+#: include/plugin/page-item.php:823
+msgid "Read More"
+msgstr ""
+
+#: include/plugin/page-item.php:389
+msgid "Please enter your name"
+msgstr ""
+
+#: include/plugin/page-item.php:391
+msgid "Please enter a valid email address"
+msgstr ""
+
+#: include/plugin/page-item.php:392
+#: include/plugin/custom-widget/contact-widget.php:142
+msgid "Message"
+msgstr ""
+
+#: include/plugin/page-item.php:393
+msgid "Please enter message"
+msgstr ""
+
+#: include/plugin/page-item.php:394
+#: include/plugin/custom-widget/contact-widget.php:144
+msgid "Submit"
+msgstr ""
+
+#: include/plugin/page-item.php:578
+msgid "View All Projects →"
+msgstr ""
+
+#: include/plugin/utility.php:118
+msgid "SELECT MEDIA"
+msgstr ""
+
+#: include/plugin/utility.php:229
+msgid "The e-mail was sent successfully"
+msgstr ""
+
+#: include/plugin/utility.php:230
+msgid "Message cannot be sent to destination"
+msgstr ""
+
+#: include/plugin/custom-widget/contact-widget.php:41
+msgid "Contact From Widget."
+msgstr ""
+
+#: include/plugin/custom-widget/contact-widget.php:47
+msgid "Contact (Goodlayers)"
+msgstr ""
+
+#: include/plugin/custom-widget/contact-widget.php:143
+msgid "* Require"
+msgstr ""
+
+#: include/plugin/custom-widget/contact-widget.php:145
+msgid "Please Wait..."
+msgstr ""
+
+#: include/plugin/custom-widget/contact-widget.php:146
+msgid "Thanks! Your email was sent"
+msgstr ""
+
+#: include/plugin/custom-widget/contact-widget.php:262
+msgid "Email:"
+msgstr ""
+
+#: include/plugin/custom-widget/custom-blog-widget.php:41
+msgid "A widget that show last posts"
+msgstr ""
+
+#: include/plugin/custom-widget/custom-blog-widget.php:47
+msgid "Recent Posts (Goodlayers)"
+msgstr ""
+
+#: include/plugin/custom-widget/custom-blog-widget.php:129
+msgid "Recent Posts Widget"
+msgstr ""
+
+#: include/plugin/custom-widget/custom-blog-widget.php:129
+#: include/plugin/custom-widget/custom-port-widget-2.php:120
+#: include/plugin/custom-widget/custom-port-widget.php:129
+msgid "All"
+msgstr ""
+
+#: include/plugin/custom-widget/custom-blog-widget.php:134
+#: include/plugin/custom-widget/custom-port-widget-2.php:125
+#: include/plugin/custom-widget/custom-port-widget.php:134
+msgid "Title :"
+msgstr ""
+
+#: include/plugin/custom-widget/custom-blog-widget.php:140
+#: include/plugin/custom-widget/custom-port-widget-2.php:131
+#: include/plugin/custom-widget/custom-port-widget.php:140
+msgid "Category :"
+msgstr ""
+
+#: include/plugin/custom-widget/custom-blog-widget.php:153
+#: include/plugin/custom-widget/custom-port-widget-2.php:144
+#: include/plugin/custom-widget/custom-port-widget.php:153
+msgid "Show Count :"
+msgstr ""
+
+#: include/plugin/custom-widget/custom-port-widget-2.php:41
+#: include/plugin/custom-widget/custom-port-widget.php:41
+msgid "A widget that show last portfolio"
+msgstr ""
+
+#: include/plugin/custom-widget/custom-port-widget-2.php:47
+msgid "Recent Port 2nd Style (Goodlayers)"
+msgstr ""
+
+#: include/plugin/custom-widget/custom-port-widget-2.php:120
+#: include/plugin/custom-widget/custom-port-widget.php:129
+msgid "Recent Port Widget"
+msgstr ""
+
+#: include/plugin/custom-widget/custom-port-widget.php:47
+msgid "Recent Port (Goodlayers)"
+msgstr ""
+
+#: include/plugin/custom-widget/flickr-widget.php:41
+msgid "A widget that show last flickr photo streams"
+msgstr ""
+
+#: include/plugin/custom-widget/flickr-widget.php:47
+msgid "Flickr (Goodlayers)"
+msgstr ""
+
+#: include/plugin/custom-widget/flickr-widget.php:100
+msgid "Flickr Widget"
+msgstr ""
+
+#: include/plugin/custom-widget/flickr-widget.php:100
+#: include/plugin/custom-widget/popular-post-widget.php:139
+msgid "0"
+msgstr ""
+
+#: include/plugin/custom-widget/flickr-widget.php:110
+msgid "Flickr id"
+msgstr ""
+
+#: include/plugin/custom-widget/flickr-widget.php:115
+#: include/plugin/custom-widget/popular-post-widget.php:154
+#: include/plugin/custom-widget/twitter-widget.php:118
+msgid "Show Count"
+msgstr ""
+
+#: include/plugin/custom-widget/flickr-widget.php:117
+msgid "Max is \"10\""
+msgstr ""
+
+#: include/plugin/custom-widget/flickr-widget.php:121
+msgid "What pictures to display"
+msgstr ""
+
+#: include/plugin/custom-widget/popular-post-widget.php:41
+msgid "A widget that show popular posts"
+msgstr ""
+
+#: include/plugin/custom-widget/popular-post-widget.php:47
+msgid "Popular Posts (Goodlayers)"
+msgstr ""
+
+#: include/plugin/custom-widget/popular-post-widget.php:139
+msgid "Popular Posts Widget"
+msgstr ""
+
+#: include/plugin/custom-widget/twitter-widget.php:41
+msgid "A widget that show Twitter feeds."
+msgstr ""
+
+#: include/plugin/custom-widget/twitter-widget.php:47
+msgid "Twitter (Goodlayers)"
+msgstr ""
+
+#: include/plugin/custom-widget/twitter-widget.php:101
+msgid "Twitter Widget"
+msgstr ""
+
+#: include/plugin/custom-widget/twitter-widget.php:112
+msgid "Twitter username"
+msgstr ""
+
+#: include/plugin/filosofo-image/filosofo-custom-image-sizes.php:151
+msgid "Could not read image size"
+msgstr ""
+
+#: include/plugin/filosofo-image/filosofo-custom-image-sizes.php:156
+msgid "Could not calculate resized image dimensions"
+msgstr ""
+
+#: include/plugin/filosofo-image/filosofo-custom-image-sizes.php:185
+#: include/plugin/filosofo-image/filosofo-custom-image-sizes.php:188
+#: include/plugin/filosofo-image/filosofo-custom-image-sizes.php:193
+msgid "Resize path invalid"
+msgstr ""
+
+#: include/plugin/really-simple-captcha/cbnet-really-simple-captcha-comments.php:69
+msgid "Anti-Spam"
+msgstr ""
+

@@ -1,0 +1,121 @@
+html{ background-color: #ffffff; } 
+.logo-wrapper{ padding-top: 35px; padding-left: 0px; padding-bottom: 26px; } 
+.social-wrapper{ margin-top: 10px; } 
+h1{ font-size: 30px; } 
+h2{ font-size: 25px; } 
+h3{ font-size: 20px; } 
+h4{ font-size: 18px; } 
+h5{ font-size: 16px; } 
+h6{ font-size: 15px; } 
+body{ font-size: 14px; } 
+h1, h2, h3, h4, h5, h6, .title-color{ color: #494949; } 
+body{ font-family: Roboto; } 
+h1, h2, h3, h4, h5, h6, .gdl-title{ font-family: Roboto; } 
+h1.stunning-text-title{ font-family: Roboto; } 
+div.divider{ border-bottom: 1px solid #ececec; } 
+.gdl-divider, .custom-sidebar.gdl-divider div, .custom-sidebar.gdl-divider .custom-sidebar-title, .custom-sidebar.gdl-divider ul li{ border-color: #ececec !important; } 
+.scroll-top{ color: #7c7c7c !important; } 
+.header-outer-wrapper{ background-color: #ffffff; } 
+.stunning-text-wrapper{ background-color: #ffffff !important; } 
+h1.stunning-text-title{ color: #333333; } 
+.stunning-text-caption{ color: #666666; } 
+.stunning-text-button{ color: #ffffff !important; background-color: #ef7f2c !important; border: 1px solid #ef7f2c !important; } 
+body{ color: #666666 !important; } 
+a{ color: #ef2c2c; } 
+a:hover{ color: #c2c2c2; } 
+.gdl-link-title{ color: #ef2c2c !important; } 
+.gdl-slider-title{ color: #ef7f2c !important; } 
+.gdl-slider-caption, .nivo-caption{ color: #ffffff !important; } 
+div.slider-bottom-gimmick{ background-color: #ebebeb; } 
+.ls-modernize .ls-nav-prev, .ls-modernize .ls-nav-next{ background-color: #ef7f2c; } 
+h2.column-service-title{ color: #ef7f2c !important; } 
+.port-title-color, .port-title-color a{ color: #ef7f2c !important; } 
+.port-title-color a:hover{ color: #ef7f2c !important; } 
+.post-title-color{ color: #646464 !important; } 
+.post-title-color a:hover{ color: #646464 !important; } 
+.post-widget-title-color{ color: #ef7f2c !important; } 
+.post-info-color, div.custom-sidebar #twitter_update_list{ color: #797979 !important; } 
+div.pagination a{ background-color: #f9f9f9; } 
+.about-author-wrapper{ background-color: #f9f9f9 !important; } 
+div.gallery-thumbnail-image, div.portfolio-thumbnail-image, div.portfolio-thumbnail-video, div.portfolio-thumbnail-slider, div.blog-thumbnail-image, div.blog-thumbnail-video, div.blog-thumbnail-slider, .gdl-image-frame{ background-color: #f0f0f0 !important; border: 1px solid #ffffff !important; } 
+.testimonial-content{ color: #848484 !important; } 
+.testimonial-author-name{ color: #494949 !important; } 
+.testimonial-author-position{ color: #8d8d8d !important; } 
+table th{ color: #666666; background-color: #f7f7f7; } 
+table, table tr, table tr td, table tr th{ border-color: #e5e5e5; } 
+.top-navigation-wrapper, .top-navigation-left li a{ color: #e7e7e7 !important; background-color: #494949 !important; } 
+.top-navigation-left li a{ border-right: 1px solid #a2a2a2 !important; } 
+.top-navigation-wrapper-gimmick{ background-color: #e77927 !important; } 
+div.navigation-wrapper{ background: url(https://www.familycaremedicalalarms.com/wp-content/themes/modernize-v3-17/images/gradient-top-gray-40px.png) repeat-x; } 
+.navigation-wrapper{ border-top: 1px solid #ececec !important; border-bottom: 1px solid #ececec !important; -moz-box-shadow: 0px 1px 5px -1px #f5f5f5; -webkit-box-shadow: 0px 1px 5px -1px #f5f5f5; box-shadow: 0px 1px 5px -1px #f5f5f5; } 
+.navigation-wrapper .sf-menu ul, .navigation-wrapper .sf-menu ul li{ border-color: #ececec !important; } 
+.navigation-wrapper{ background-color: #fdfdfd !important; } 
+.sf-menu li li{ background-color: #fdfdfd !important; } 
+.navigation-wrapper .sf-menu li a{ color: #7a7a7a !important; border-right: 1px solid #dbdbdb !important; border-left: 1px solid #ffffff !important; } 
+.navigation-wrapper .sf-menu ul a, .navigation-wrapper .sf-menu ul .current-menu-ancestor ul a, .navigation-wrapper .sf-menu ul .current-menu-item ul a, .navigation-wrapper .sf-menu .current-menu-ancestor ul a, .navigation-wrapper .sf-menu .current-menu-item ul a{ color: #7a7a7a !important; } 
+.navigation-wrapper .sf-menu ul a:hover, .navigation-wrapper .sf-menu ul .current-menu-item ul a:hover, .navigation-wrapper .sf-menu .current-menu-item ul a:hover{ color: #3d3d3d !important; } 
+.navigation-wrapper .sf-menu a:hover{ color: #3d3d3d !important; } 
+.navigation-wrapper .sf-menu .current-menu-ancestor a, .navigation-wrapper .sf-menu .current-menu-item a{ color: #3d3d3d !important; } 
+.navigation-wrapper .sf-menu ul .current-menu-ancestor a, .navigation-wrapper .sf-menu ul .current-menu-ancestor ul .current-menu-item a, .navigation-wrapper .sf-menu ul .current-menu-item a{ color: #3d3d3d !important; } 
+.search-wrapper{ border-left: 1px solid #dbdbdb; } 
+.search-wrapper form{ border-left: 1px solid #ffffff; } 
+.search-wrapper #search-text input[type="text"]{ color: #333333 !important; background-color: #efefef !important; -webkit-box-shadow: inset 0px 0px 6px #dddddd !important; -moz-box-shadow: inset 0px 0px 6px #dddddd !important; box-shadow: inset 0px 0px 6px #dddddd !important; } 
+div.gdl-price-item .gdl-divider{ border-color: #ececec !important; } 
+div.gdl-price-item .price-title{ color: #3a3a3a !important; background-color: #e9e9e9 !important; } 
+div.gdl-price-item .price-item.active .price-title{ color: #ffffff !important; background-color: #5f5f5f !important; } 
+div.gdl-price-item .price-tag{ color: #3a3a3a !important; } 
+div.gdl-price-item .price-item.active .price-tag{ color: #ef7f2c !important; } 
+div.gdl-price-item .price-item.active{ border-top: 1px solid #ef7f2c !important; } 
+ul.gdl-tabs{ border-color: #dddddd !important; } 
+ul.gdl-tabs li a{ border-color: #dddddd !important; background-color: #f5f5f5 !important; color: #666666 !important; } 
+ul.gdl-tabs li a.active{ color: #111111 !important; background-color: #ffffff !important; } 
+div.personnel-item{ background-color: #f7f7f7; } 
+div.personnel-item .personnel-position{ color: #9d9d9d; } 
+div.personnel-item .personnel-title{ color: #353535; } 
+div.personnel-item .personnel-thumbnail{ border-color: #ef7f2c; } 
+div.personnel-item .personnel-content{ color: #838383; } 
+div.personnal-widget-item .personnal-widget-info{ color: #4a4a4a; } 
+.sidebar-title-color{ color: #494949 !important; } 
+.footer-wrapper a{ color: #3b3b3b !important; } 
+.footer-wrapper a:hover{ color: #e6e6e6 !important; } 
+.footer-widget-wrapper .custom-sidebar-title{ color: #3b3b3b !important; } 
+.footer-container-wrapper{ background-color: #ededed !important; } 
+div.footer-container-wrapper{ border-top: 3px solid #bfbfbf; } 
+div.footer-wrapper div.contact-form-wrapper input[type="text"], div.footer-wrapper div.contact-form-wrapper input[type="password"], div.footer-wrapper div.contact-form-wrapper textarea, div.footer-wrapper div.custom-sidebar #search-text input[type="text"], div.footer-wrapper div.custom-sidebar .contact-widget-whole input, div.footer-wrapper div.custom-sidebar .contact-widget-whole textarea{ color: #888888 !important; background-color: #383838 !important; border: 1px solid #434343 !important; } 
+div.footer-wrapper a.button, div.footer-wrapper button, div.footer-wrapper button:hover{ background-color: #222222 !important; color: #7a7a7a !important; } 
+div.footer-wrapper div.custom-sidebar .recent-post-widget-thumbnail{ background-color: #292929; border-color: #3b3b3b !important; } 
+.footer-wrapper .gdl-divider, .footer-wrapper .custom-sidebar.gdl-divider div, .footer-wrapper .custom-sidebar.gdl-divider ul li{ border-color: #ededed !important; } 
+.footer-wrapper, .footer-wrapper table th{ color: #3d3d3d !important; } 
+.footer-wrapper .post-info-color, div.custom-sidebar #twitter_update_list{ color: #b1b1b1 !important; } 
+div.copyright-container-wrapper{ color: #808080 !important; background-color: #202020 !important; -moz-box-shadow: inset 0px 3px 6px -3px #111111; -webkit-box-shadow: inset 0px 3px 6px -3px #111111; box-shadow: inset 0px 3px 6px -3px #111111; } 
+div.contact-form-wrapper input[type="text"], div.contact-form-wrapper input[type="password"], div.contact-form-wrapper textarea, div.custom-sidebar #search-text input[type="text"], div.custom-sidebar .contact-widget-whole input, div.comment-wrapper input[type="text"], div.comment-wrapper textarea, div.custom-sidebar .contact-widget-whole textarea, span.wpcf7-form-control-wrap input[type="text"], span.wpcf7-form-control-wrap input[type="password"], span.wpcf7-form-control-wrap input[type="email"], span.wpcf7-form-control-wrap textarea{ color: #888888; background-color: #ffffff; border: 1px solid #cfcfcf; -webkit-box-shadow: #ececec 0px 1px 4px inset, #f8f8f8 -5px -5px 0px 0px, #f8f8f8 5px 5px 0px 0px, #f8f8f8 5px 0px 0px 0px, #f8f8f8 0px 5px 0px 0px, #f8f8f8 5px -5px 0px 0px, #f8f8f8 -5px 5px 0px 0px ; box-shadow: #ececec 0px 1px 4px inset, #f8f8f8 -5px -5px 0px 0px, #f8f8f8 5px 5px 0px 0px, #f8f8f8 5px 0px 0px 0px, #f8f8f8 0px 5px 0px 0px, #f8f8f8 5px -5px 0px 0px, #f8f8f8 -5px 5px 0px 0px ; } 
+a.button, button, input[type="submit"], input[type="reset"], input[type="button"], a.gdl-button{ background-color: #f1f1f1; color: #7a7a7a; border: 1px solid #dedede; } 
+a.button:hover, button:hover, input[type="submit"]:hover, input[type="reset"]:hover, input[type="button"]:hover, a.gdl-button:hover{ color: #7a7a7a; } 
+a.button, button, input[type="submit"], input[type="reset"], input[type="button"], a.gdl-button{ -moz-box-shadow: 1px 1px 3px #ececec; -webkit-box-shadow: 1px 1px 3px #ececec; box-shadow: 1px 1px 3px #ececec; } 
+div.gallery-thumbnail-image, div.custom-sidebar .recent-post-widget-thumbnail, .gdl-image-frame, div.portfolio-thumbnail-image, div.portfolio-thumbnail-video, div.portfolio-thumbnail-slider, div.single-port-thumbnail-image, div.single-port-thumbnail-video, div.single-port-thumbnail-slider, div.blog-thumbnail-image, div.blog-thumbnail-slider, div.blog-thumbnail-video{ -moz-box-shadow: 0px 0px 4px 1px #ececec; -webkit-box-shadow: 0px 0px 4px 1px #ececec; box-shadow: 0px 0px 4px 1px #ececec; } 
+div.right-sidebar-wrapper{ -moz-box-shadow: inset 3px 0px 3px -3px #ececec; -webkit-box-shadow: inset 3px 0px 3px -3px #ececec; box-shadow: inset 3px 0px 3px -3px #ececec; } 
+div.left-sidebar-wrapper{ -moz-box-shadow: inset -3px 0px 3px -3px #ececec; -webkit-box-shadow: inset -3px 0px 3px -3px #ececec; box-shadow: inset -3px 0px 3px -3px #ececec; } 
+div.gdl-price-item .price-item.active{ -moz-box-shadow: 0px 0px 3px #ececec; -webkit-box-shadow: 0px 0px 3px #ececec; box-shadow: 0px 0px 3px #ececec; } 
+div.single-port-next-nav .right-arrow{ background: url(https://www.familycaremedicalalarms.com/wp-content/themes/modernize-v3-17/images/icon/dark/arrow-right.png) no-repeat; } 
+div.single-port-prev-nav .left-arrow{ background: url(https://www.familycaremedicalalarms.com/wp-content/themes/modernize-v3-17/images/icon/dark/arrow-left.png) no-repeat; } 
+div.single-thumbnail-author, div.archive-wrapper .blog-item .blog-thumbnail-author, div.blog-item-holder .blog-item2 .blog-thumbnail-author, div.blog-item-holder .blog-item3 .blog-thumbnail-author { background: url(https://www.familycaremedicalalarms.com/wp-content/themes/modernize-v3-17/images/icon/dark/author.png) no-repeat 0px 1px; } 
+div.single-thumbnail-date, div.custom-sidebar .recent-post-widget-date, div.archive-wrapper .blog-item .blog-thumbnail-date, div.blog-item-holder .blog-item1 .blog-thumbnail-date, div.blog-item-holder .blog-item2 .blog-thumbnail-date, div.blog-item-holder .blog-item3 .blog-thumbnail-date{ background: url(https://www.familycaremedicalalarms.com/wp-content/themes/modernize-v3-17/images/icon/dark/calendar.png) no-repeat 0px 1px; } 
+div.single-thumbnail-comment, div.archive-wrapper .blog-item .blog-thumbnail-comment, div.blog-item-holder .blog-item1 .blog-thumbnail-comment, div.blog-item-holder .blog-item2 .blog-thumbnail-comment, div.blog-item-holder .blog-item3 .blog-thumbnail-comment,div.custom-sidebar .recent-post-widget-comment-num{ background: url(https://www.familycaremedicalalarms.com/wp-content/themes/modernize-v3-17/images/icon/dark/comment.png) no-repeat 0px 1px; } 
+div.single-thumbnail-tag, div.archive-wrapper .blog-item .blog-thumbnail-tag, div.blog-item-holder .blog-item2 .blog-thumbnail-tag, div.blog-item-holder .blog-item3 .blog-thumbnail-tag{ background: url(https://www.familycaremedicalalarms.com/wp-content/themes/modernize-v3-17/images/icon/dark/tag.png) no-repeat; } 
+div.custom-sidebar #searchsubmit, div.search-wrapper input[type="submit"]{ background: url(https://www.familycaremedicalalarms.com/wp-content/themes/modernize-v3-17/images/icon/dark/find-17px.png) no-repeat center; } 
+div.single-port-visit-website{ background: url(https://www.familycaremedicalalarms.com/wp-content/themes/modernize-v3-17/images/icon/dark/link-small.png) no-repeat; } 
+span.accordion-head-image.active, span.toggle-box-head-image.active{ background: url(https://www.familycaremedicalalarms.com/wp-content/themes/modernize-v3-17/images/icon/dark/minus-24px.png) no-repeat; } 
+span.accordion-head-image, span.toggle-box-head-image{ background: url(https://www.familycaremedicalalarms.com/wp-content/themes/modernize-v3-17/images/icon/dark/plus-24px.png) no-repeat; } 
+div.jcarousellite-nav .prev, div.jcarousellite-nav .next{ background: url(https://www.familycaremedicalalarms.com/wp-content/themes/modernize-v3-17/images/icon/dark/navigation-20px.png); } 
+div.testimonial-icon{ background: url(https://www.familycaremedicalalarms.com/wp-content/themes/modernize-v3-17/images/icon/dark/quotes-18px.png); } 
+div.custom-sidebar ul li{ background: url(https://www.familycaremedicalalarms.com/wp-content/themes/modernize-v3-17/images/icon/dark/arrow4.png) no-repeat 0px 14px; } 
+div.stunning-text-wrapper{ background: url(https://www.familycaremedicalalarms.com/wp-content/themes/modernize-v3-17/images/icon/dark/left-cross-5px.png); } 
+div.personnal-widget-prev{ background-image: url(https://www.familycaremedicalalarms.com/wp-content/themes/modernize-v3-17/images/icon/dark/personnal-widget-left.png); } 
+div.personnal-widget-next{ background-image: url(https://www.familycaremedicalalarms.com/wp-content/themes/modernize-v3-17/images/icon/dark/personnal-widget-right.png); } 
+div.footer-wrapper div.custom-sidebar ul li{ background: url(https://www.familycaremedicalalarms.com/wp-content/themes/modernize-v3-17/images/icon/dark/arrow4.png) no-repeat 0px 14px; } 
+div.footer-wrapper div.custom-sidebar #searchsubmit{ background: url(https://www.familycaremedicalalarms.com/wp-content/themes/modernize-v3-17/images/icon/dark/find-17px.png) no-repeat center; } 
+div.footer-wrapper div.custom-sidebar .recent-post-widget-comment-num{ background: url(https://www.familycaremedicalalarms.com/wp-content/themes/modernize-v3-17/images/icon/dark/comment.png) no-repeat 0px 1px; } 
+div.footer-wrapper div.custom-sidebar .recent-post-widget-date{ background: url(https://www.familycaremedicalalarms.com/wp-content/themes/modernize-v3-17/images/icon/dark/calendar.png) no-repeat 0px 1px; } 
+div.footer-wrapper div.personnal-widget-prev{ background-image: url(https://www.familycaremedicalalarms.com/wp-content/themes/modernize-v3-17/images/icon/dark/personnal-widget-left.png); } 
+div.footer-wrapper div.personnal-widget-next{ background-image: url(https://www.familycaremedicalalarms.com/wp-content/themes/modernize-v3-17/images/icon/dark/personnal-widget-right.png); } 
+

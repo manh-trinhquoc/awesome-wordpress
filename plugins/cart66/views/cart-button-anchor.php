@@ -1,0 +1,1 @@
+<a href="<?php echo $data['url']; ?>&amp;product_url=<?php echo urlencode(Cart66Common::getCurrentPageUrl()); ?>" class="Cart66AddToCart <?php echo $data['class']; ?>"><?php echo $data['text']; ?></a>
