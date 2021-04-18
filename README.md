@@ -254,12 +254,12 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 ## Starter theme, plugin boiler plate.
 1. https://github.com/themosis/themosis
 ### 2. Sage
-2.1 [A Sage fork ready for Woocommerce,with Bootstrap and automation in common tasks. Stop being a robot by customising common templates again & again and make your life easier with this boilerplate](https://github.com/joaodfmota/sage-woo)
-3. WP Emerge
+2.1 [A Sage fork ready for Woocommerce,with Bootstrap and automation in common tasks. Stop being a robot by customising common templates again & again and make your life easier with this boilerplate](https://github.com/joaodfmota/sage-woo).
+3. WP Emerge.
 4. [Gantry Framework](http://docs.gantry.org/)
-5. WP React Starter: WordPress React Boilerplate - Plugin boiler plate
-6. Kirki Customizer Framework
-7. https://lumberjack.rareloop.com/ - Supercharge your WordPress Development
+5. WP React Starter: WordPress React Boilerplate - Plugin boiler plate.
+6. Kirki Customizer Framework.
+7. [Supercharge your WordPress Development](https://lumberjack.rareloop.com/).
 
 ## Helper library, code snippet
 1. [AJAX Action Wrapper](https://github.com/YahnisElsts/ajax-wrapper)
