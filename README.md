@@ -292,8 +292,10 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 6. [Awesome WordPress Plugins](https://github.com/designwall/Awesome-WordPress-Plugins)
 
 ## Special purpose
+### 1. List all plugins
 1. https://github.com/wp-plugins/no-longer-in-directory/
 2. https://gist.github.com/snshn/04faf406415769292e510d3fd2cecd21
-### 3. Dection, scann tools
+3. http://plugins.svn.wordpress.org/
+### 2. Dection, scann tools
 1. [A WordPress detection tool, detects if a website is running WordPress.](https://github.com/IamLizu/wpdetect).
 2. [A cross-platform python based utility to identify wordpress plugins used by a website.](https://github.com/r0oth3x49/wp-plugin-checker).
