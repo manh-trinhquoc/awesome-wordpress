@@ -301,13 +301,15 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 
 ## Special purpose
 ### 1. List all plugins
-1. https://github.com/wp-plugins/no-longer-in-directory/
-2. https://gist.github.com/snshn/04faf406415769292e510d3fd2cecd21
-3. http://plugins.svn.wordpress.org/
+1.1. https://github.com/wp-plugins/no-longer-in-directory/
+1.2. https://gist.github.com/snshn/04faf406415769292e510d3fd2cecd21
+1.3. http://plugins.svn.wordpress.org/
 ### 2. Dection, scann tools
-1. [A WordPress detection tool, detects if a website is running WordPress.](https://github.com/IamLizu/wpdetect).
-2. [A cross-platform python based utility to identify wordpress plugins used by a website.](https://github.com/r0oth3x49/wp-plugin-checker).
-3. [Find known vulnerabilities in WordPress plugins and themes using Burp Suite proxy. WPScan like plugin for Burp](https://github.com/kacperszurek/burp_wp)
+2.1. [A WordPress detection tool, detects if a website is running WordPress.](https://github.com/IamLizu/wpdetect).
+2.2. [A cross-platform python based utility to identify wordpress plugins used by a website.](https://github.com/r0oth3x49/wp-plugin-checker).
+2.3. [Find known vulnerabilities in WordPress plugins and themes using Burp Suite proxy. WPScan like plugin for Burp](https://github.com/kacperszurek/burp_wp)
 
+3. https://robinroelofsen.com/hide-administrator-account-wordpress
 ## Testing
 1. [The wp-browser project provides a Codeception based solution to test WordPress plugins, themes and whole sites at all levels of testing.](https://wpbrowser.wptestkit.dev/)
+
