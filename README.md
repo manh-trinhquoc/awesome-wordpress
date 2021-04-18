@@ -279,8 +279,9 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 1.2 https://tommcfarlin.com/category/resources/ 
 1.3 https://markjaquith.wordpress.com/
 ### 2. Famous Personal Blog
-### 3. Website about coding
-3.1 https://10up.github.io/Engineering-Best-Practices/
+### 3. Website, link
+1 https://10up.github.io/Engineering-Best-Practices/
+2 https://www.rareloop.com/posts/comparing-modern-mvc-wordpress-frameworks/
 ### 4. Cracked plugins, themes
 4.1 https://www.shineads.in/category/wp-pluggins/
 ## Other awesome
