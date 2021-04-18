@@ -299,4 +299,4 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 ### 2. Dection, scann tools
 1. [A WordPress detection tool, detects if a website is running WordPress.](https://github.com/IamLizu/wpdetect).
 2. [A cross-platform python based utility to identify wordpress plugins used by a website.](https://github.com/r0oth3x49/wp-plugin-checker).
-3. [Find known vulnerabilities in WordPress plugins and themes using Burp Suite proxy. WPScan like plugin for Burp] (https://github.com/kacperszurek/burp_wp)
+3. [Find known vulnerabilities in WordPress plugins and themes using Burp Suite proxy. WPScan like plugin for Burp](https://github.com/kacperszurek/burp_wp)
