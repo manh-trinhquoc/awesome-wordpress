@@ -252,15 +252,21 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 37.4 Category Color - Easily set a custom color per Post Category and use the colors in your WordPress templates to spice up your theme.
 
 ## Starter theme, plugin boiler plate.
-1. https://github.com/themosis/themosis
+1. [built on top of some of the most popular PHP packages: Symfony, Illuminate and more.](https://github.com/themosis/themosis).
 ### 2. Sage
 2.1 [A Sage fork ready for Woocommerce,with Bootstrap and automation in common tasks. Stop being a robot by customising common templates again & again and make your life easier with this boilerplate](https://github.com/joaodfmota/sage-woo).
+
 3. WP Emerge.
-5. [Gantry Framework](http://docs.gantry.org/).
-7. WP React Starter: WordPress React Boilerplate - Plugin boiler plate.
-8. Kirki Customizer Framework.
-9. [Supercharge your WordPress Development](https://lumberjack.rareloop.com/).
-10. [TypeRocket is an MVC WordPress framework with beautiful UI components, remarkable code performance, and elegant PHP syntax. Crafted to help you get work done in half the time](https://typerocket.com/)
+
+4. [Gantry Framework](http://docs.gantry.org/).
+
+5. WP React Starter: WordPress React Boilerplate - Plugin boiler plate.
+
+6. Kirki Customizer Framework.
+
+7. [Supercharge your WordPress Development](https://lumberjack.rareloop.com/).
+
+8. [TypeRocket is an MVC WordPress framework with beautiful UI components, remarkable code performance, and elegant PHP syntax. Crafted to help you get work done in half the time](https://typerocket.com/)
 
 ## Helper library, code snippet
 1. [AJAX Action Wrapper](https://github.com/YahnisElsts/ajax-wrapper)
