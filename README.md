@@ -256,7 +256,7 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 ### 2. Sage
 2.1 [A Sage fork ready for Woocommerce,with Bootstrap and automation in common tasks. Stop being a robot by customising common templates again & again and make your life easier with this boilerplate](https://github.com/joaodfmota/sage-woo).
 
-3. WP Emerge.
+3. [WP Emerge](https://wpemerge.com/)
 
 4. [Gantry Framework](http://docs.gantry.org/).
 
