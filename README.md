@@ -252,7 +252,15 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 37.4 Category Color - Easily set a custom color per Post Category and use the colors in your WordPress templates to spice up your theme.
 
 ## Starter theme, plugin boiler plate.
-1. [built on top of some of the most popular PHP packages: Symfony, Illuminate and more.](https://github.com/themosis/themosis).
+1. [themosis](https://github.com/themosis/themosis).
+
+2. [WordPress Plugin Boilerplate](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate)
+
+3. [WordPress Plugin Template](https://github.com/hlashbrooke/WordPress-Plugin-Template)
+
+4. [WordPress Settings Framework](https://github.com/jamesckemp/WordPress-Settings-Framework)
+
+5. [Wordpress-Plugin-Template-OOP](https://github.com/KamranSyed/Wordpress-Plugin-Template-OOP)
 ### 2. Sage
 2.1 [A Sage fork ready for Woocommerce,with Bootstrap and automation in common tasks. Stop being a robot by customising common templates again & again and make your life easier with this boilerplate](https://github.com/joaodfmota/sage-woo).
 
