@@ -300,6 +300,8 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 3 https://thewhitelabelagency.com/wordpress-plugins/
 ### 4. Cracked plugins, themes
 4.1 https://www.shineads.in/category/wp-pluggins/
+
+4.2 https://hotrowordpress.com/
 ## Other awesome
 1. [Awesome WP Developer Tools](https://github.com/lukecav/awesome-wp-developer-tools)
 2. [Awesome Elementor](https://github.com/lukecav/awesome-elementor)
