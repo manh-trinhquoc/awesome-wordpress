@@ -276,6 +276,8 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 
 8. [TypeRocket is an MVC WordPress framework with beautiful UI components, remarkable code performance, and elegant PHP syntax. Crafted to help you get work done in half the time](https://typerocket.com/)
 
+9. [MVC framework for plugin](https://github.com/tombenner/wp-mvc)
+
 ## Helper library, code snippet
 1. [AJAX Action Wrapper](https://github.com/YahnisElsts/ajax-wrapper)
 2. [Extended CPTs](https://github.com/johnbillion/extended-cpts)
