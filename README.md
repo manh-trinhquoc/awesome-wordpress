@@ -300,6 +300,10 @@ My favuorite collection of resouces, plugins, themes and blogs about wordpress
 1 https://10up.github.io/Engineering-Best-Practices/
 2 https://www.rareloop.com/posts/comparing-modern-mvc-wordpress-frameworks/
 3 https://thewhitelabelagency.com/wordpress-plugins/
+
+4 https://journal.rmccue.io/400/how-wordpress-knows-what-page-youre-on/
+
+5 https://carlalexander.ca/wordpress-adventurous-wp-query-class/
 ### 4. Cracked plugins, themes
 4.1 https://www.shineads.in/category/wp-pluggins/
 
